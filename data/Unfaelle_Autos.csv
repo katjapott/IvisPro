@@ -1,0 +1,1367 @@
+BFS_NR,GEBIET_NAME,INDIKATOR_JAHR,Anzahl_Unfaelle,AVG_Unfaelle_pro_Ort,Summe_aller_Unfaelle_pro_ort,Autos_pro_Jahr,AVG_Autos,EINHEIT_LANG
+0,Bezirk Affoltern,2010,8.1,7.29,51,536,548.7,Anzahl
+0,Bezirk Affoltern,2011,7.6,7.29,51,539,548.7,Anzahl
+0,Bezirk Affoltern,2012,7.1,7.29,51,550,548.7,Anzahl
+0,Bezirk Affoltern,2013,7.0,7.29,51,551,548.7,Anzahl
+0,Bezirk Affoltern,2014,6.8,7.29,51,552,548.7,Anzahl
+0,Bezirk Affoltern,2015,7.2,7.29,51,557,548.7,Anzahl
+0,Bezirk Affoltern,2016,7.2,7.29,51,556,548.7,Anzahl
+0,Bezirk Andelfingen,2010,9.4,8.09,56.6,553,571.7,Anzahl
+0,Bezirk Andelfingen,2011,8.0,8.09,56.6,562,571.7,Anzahl
+0,Bezirk Andelfingen,2012,7.5,8.09,56.6,571,571.7,Anzahl
+0,Bezirk Andelfingen,2013,7.5,8.09,56.6,582,571.7,Anzahl
+0,Bezirk Andelfingen,2014,6.9,8.09,56.6,578,571.7,Anzahl
+0,Bezirk Andelfingen,2015,8.4,8.09,56.6,577,571.7,Anzahl
+0,Bezirk Andelfingen,2016,8.9,8.09,56.6,579,571.7,Anzahl
+0,Bezirk Bülach,2010,12.9,12.61,88.3,555,562.1,Anzahl
+0,Bezirk Bülach,2011,12.2,12.61,88.3,558,562.1,Anzahl
+0,Bezirk Bülach,2012,12.6,12.61,88.3,566,562.1,Anzahl
+0,Bezirk Bülach,2013,12.8,12.61,88.3,565,562.1,Anzahl
+0,Bezirk Bülach,2014,12.5,12.61,88.3,564,562.1,Anzahl
+0,Bezirk Bülach,2015,12.2,12.61,88.3,565,562.1,Anzahl
+0,Bezirk Bülach,2016,13.1,12.61,88.3,562,562.1,Anzahl
+0,Bezirk Dielsdorf,2010,11.1,10.26,71.8,594,605.9,Anzahl
+0,Bezirk Dielsdorf,2011,9.8,10.26,71.8,596,605.9,Anzahl
+0,Bezirk Dielsdorf,2012,9.9,10.26,71.8,603,605.9,Anzahl
+0,Bezirk Dielsdorf,2013,9.8,10.26,71.8,609,605.9,Anzahl
+0,Bezirk Dielsdorf,2014,10.7,10.26,71.8,607,605.9,Anzahl
+0,Bezirk Dielsdorf,2015,10.1,10.26,71.8,615,605.9,Anzahl
+0,Bezirk Dielsdorf,2016,10.4,10.26,71.8,617,605.9,Anzahl
+0,Bezirk Dietikon,2010,12.5,11.79,82.5,530,541.1,Anzahl
+0,Bezirk Dietikon,2011,11.0,11.79,82.5,534,541.1,Anzahl
+0,Bezirk Dietikon,2012,11.3,11.79,82.5,548,541.1,Anzahl
+0,Bezirk Dietikon,2013,12.4,11.79,82.5,549,541.1,Anzahl
+0,Bezirk Dietikon,2014,11.4,11.79,82.5,548,541.1,Anzahl
+0,Bezirk Dietikon,2015,10.8,11.79,82.5,544,541.1,Anzahl
+0,Bezirk Dietikon,2016,13.1,11.79,82.5,535,541.1,Anzahl
+0,Bezirk Hinwil,2010,8.6,8.03,56.2,540,553.6,Anzahl
+0,Bezirk Hinwil,2011,7.8,8.03,56.2,547,553.6,Anzahl
+0,Bezirk Hinwil,2012,7.9,8.03,56.2,554,553.6,Anzahl
+0,Bezirk Hinwil,2013,8.0,8.03,56.2,554,553.6,Anzahl
+0,Bezirk Hinwil,2014,7.5,8.03,56.2,555,553.6,Anzahl
+0,Bezirk Hinwil,2015,8.2,8.03,56.2,560,553.6,Anzahl
+0,Bezirk Hinwil,2016,8.2,8.03,56.2,565,553.6,Anzahl
+0,Bezirk Horgen,2010,8.1,7.7,53.9,503,507.6,Anzahl
+0,Bezirk Horgen,2011,8.1,7.7,53.9,505,507.6,Anzahl
+0,Bezirk Horgen,2012,8.0,7.7,53.9,509,507.6,Anzahl
+0,Bezirk Horgen,2013,7.8,7.7,53.9,511,507.6,Anzahl
+0,Bezirk Horgen,2014,7.6,7.7,53.9,509,507.6,Anzahl
+0,Bezirk Horgen,2015,6.9,7.7,53.9,509,507.6,Anzahl
+0,Bezirk Horgen,2016,7.4,7.7,53.9,507,507.6,Anzahl
+0,Bezirk Meilen,2010,5.6,5.69,39.8,544,544.6,Anzahl
+0,Bezirk Meilen,2011,6.0,5.69,39.8,541,544.6,Anzahl
+0,Bezirk Meilen,2012,6.7,5.69,39.8,549,544.6,Anzahl
+0,Bezirk Meilen,2013,5.6,5.69,39.8,549,544.6,Anzahl
+0,Bezirk Meilen,2014,5.3,5.69,39.8,544,544.6,Anzahl
+0,Bezirk Meilen,2015,5.4,5.69,39.8,543,544.6,Anzahl
+0,Bezirk Meilen,2016,5.2,5.69,39.8,542,544.6,Anzahl
+0,Bezirk Pfäffikon,2010,10.0,8.67,60.7,551,562.1,Anzahl
+0,Bezirk Pfäffikon,2011,8.2,8.67,60.7,552,562.1,Anzahl
+0,Bezirk Pfäffikon,2012,9.1,8.67,60.7,565,562.1,Anzahl
+0,Bezirk Pfäffikon,2013,8.7,8.67,60.7,565,562.1,Anzahl
+0,Bezirk Pfäffikon,2014,8.3,8.67,60.7,564,562.1,Anzahl
+0,Bezirk Pfäffikon,2015,8.2,8.67,60.7,568,562.1,Anzahl
+0,Bezirk Pfäffikon,2016,8.2,8.67,60.7,570,562.1,Anzahl
+0,Bezirk Uster,2010,9.5,8.69,60.8,537,538.6,Anzahl
+0,Bezirk Uster,2011,9.1,8.69,60.8,533,538.6,Anzahl
+0,Bezirk Uster,2012,9.0,8.69,60.8,540,538.6,Anzahl
+0,Bezirk Uster,2013,8.2,8.69,60.8,541,538.6,Anzahl
+0,Bezirk Uster,2014,7.9,8.69,60.8,541,538.6,Anzahl
+0,Bezirk Uster,2015,8.3,8.69,60.8,540,538.6,Anzahl
+0,Bezirk Uster,2016,8.8,8.69,60.8,538,538.6,Anzahl
+0,Bezirk Winterthur,2010,12.8,11.2,78.4,463,467,Anzahl
+0,Bezirk Winterthur,2011,11.7,11.2,78.4,462,467,Anzahl
+0,Bezirk Winterthur,2012,11.1,11.2,78.4,468,467,Anzahl
+0,Bezirk Winterthur,2013,10.8,11.2,78.4,470,467,Anzahl
+0,Bezirk Winterthur,2014,10.3,11.2,78.4,468,467,Anzahl
+0,Bezirk Winterthur,2015,10.3,11.2,78.4,469,467,Anzahl
+0,Bezirk Winterthur,2016,11.4,11.2,78.4,469,467,Anzahl
+0,Bezirk Zürich,2010,10.3,10.64,74.5,357,352.1,Anzahl
+0,Bezirk Zürich,2011,9.7,10.64,74.5,352,352.1,Anzahl
+0,Bezirk Zürich,2012,9.3,10.64,74.5,358,352.1,Anzahl
+0,Bezirk Zürich,2013,9.5,10.64,74.5,355,352.1,Anzahl
+0,Bezirk Zürich,2014,9.1,10.64,74.5,351,352.1,Anzahl
+0,Bezirk Zürich,2015,12.1,10.64,74.5,348,352.1,Anzahl
+0,Bezirk Zürich,2016,14.5,10.64,74.5,344,352.1,Anzahl
+0,Region Furttal,2010,13.4,12.77,89.4,589,601.7,Anzahl
+0,Region Furttal,2011,13.2,12.77,89.4,590,601.7,Anzahl
+0,Region Furttal,2012,12.8,12.77,89.4,605,601.7,Anzahl
+0,Region Furttal,2013,12.8,12.77,89.4,602,601.7,Anzahl
+0,Region Furttal,2014,12.6,12.77,89.4,599,601.7,Anzahl
+0,Region Furttal,2015,12.8,12.77,89.4,613,601.7,Anzahl
+0,Region Furttal,2016,11.8,12.77,89.4,614,601.7,Anzahl
+0,Region Glattal,2010,13.7,13,91,558,559.6,Anzahl
+0,Region Glattal,2011,13.1,13,91,555,559.6,Anzahl
+0,Region Glattal,2012,13.1,13,91,563,559.6,Anzahl
+0,Region Glattal,2013,12.9,13,91,564,559.6,Anzahl
+0,Region Glattal,2014,12.7,13,91,562,559.6,Anzahl
+0,Region Glattal,2015,12.1,13,91,560,559.6,Anzahl
+0,Region Glattal,2016,13.4,13,91,555,559.6,Anzahl
+0,Region Knonaueramt,2010,8.1,7.29,51,536,548.7,Anzahl
+0,Region Knonaueramt,2011,7.6,7.29,51,539,548.7,Anzahl
+0,Region Knonaueramt,2012,7.1,7.29,51,550,548.7,Anzahl
+0,Region Knonaueramt,2013,7.0,7.29,51,551,548.7,Anzahl
+0,Region Knonaueramt,2014,6.8,7.29,51,552,548.7,Anzahl
+0,Region Knonaueramt,2015,7.2,7.29,51,557,548.7,Anzahl
+0,Region Knonaueramt,2016,7.2,7.29,51,556,548.7,Anzahl
+0,Region Limmattal,2010,12.5,11.79,82.5,530,541.1,Anzahl
+0,Region Limmattal,2011,11.0,11.79,82.5,534,541.1,Anzahl
+0,Region Limmattal,2012,11.3,11.79,82.5,548,541.1,Anzahl
+0,Region Limmattal,2013,12.4,11.79,82.5,549,541.1,Anzahl
+0,Region Limmattal,2014,11.4,11.79,82.5,548,541.1,Anzahl
+0,Region Limmattal,2015,10.8,11.79,82.5,544,541.1,Anzahl
+0,Region Limmattal,2016,13.1,11.79,82.5,535,541.1,Anzahl
+0,Region Oberland,2010,8.2,7.71,54,531,543.4,Anzahl
+0,Region Oberland,2011,7.8,7.71,54,537,543.4,Anzahl
+0,Region Oberland,2012,7.5,7.71,54,545,543.4,Anzahl
+0,Region Oberland,2013,7.5,7.71,54,545,543.4,Anzahl
+0,Region Oberland,2014,7.3,7.71,54,545,543.4,Anzahl
+0,Region Oberland,2015,7.8,7.71,54,549,543.4,Anzahl
+0,Region Oberland,2016,7.9,7.71,54,552,543.4,Anzahl
+0,Region Pfannenstiel,2010,5.8,5.87,41.1,545,546.4,Anzahl
+0,Region Pfannenstiel,2011,6.1,5.87,41.1,543,546.4,Anzahl
+0,Region Pfannenstiel,2012,6.8,5.87,41.1,550,546.4,Anzahl
+0,Region Pfannenstiel,2013,5.6,5.87,41.1,551,546.4,Anzahl
+0,Region Pfannenstiel,2014,5.6,5.87,41.1,546,546.4,Anzahl
+0,Region Pfannenstiel,2015,5.7,5.87,41.1,545,546.4,Anzahl
+0,Region Pfannenstiel,2016,5.5,5.87,41.1,545,546.4,Anzahl
+0,Region Unterland,2010,8.2,7.56,52.9,576,586.6,Anzahl
+0,Region Unterland,2011,6.7,7.56,52.9,577,586.6,Anzahl
+0,Region Unterland,2012,7.5,7.56,52.9,584,586.6,Anzahl
+0,Region Unterland,2013,7.4,7.56,52.9,589,586.6,Anzahl
+0,Region Unterland,2014,7.5,7.56,52.9,589,586.6,Anzahl
+0,Region Unterland,2015,7.7,7.56,52.9,594,586.6,Anzahl
+0,Region Unterland,2016,7.9,7.56,52.9,597,586.6,Anzahl
+0,Region Weinland,2010,9.4,8.09,56.6,553,571.7,Anzahl
+0,Region Weinland,2011,8.0,8.09,56.6,562,571.7,Anzahl
+0,Region Weinland,2012,7.5,8.09,56.6,571,571.7,Anzahl
+0,Region Weinland,2013,7.5,8.09,56.6,582,571.7,Anzahl
+0,Region Weinland,2014,6.9,8.09,56.6,578,571.7,Anzahl
+0,Region Weinland,2015,8.4,8.09,56.6,577,571.7,Anzahl
+0,Region Weinland,2016,8.9,8.09,56.6,579,571.7,Anzahl
+0,Region Winterthur u. Umg.,2010,13.0,11.2,78.4,472,476.7,Anzahl
+0,Region Winterthur u. Umg.,2011,11.4,11.2,78.4,472,476.7,Anzahl
+0,Region Winterthur u. Umg.,2012,11.3,11.2,78.4,478,476.7,Anzahl
+0,Region Winterthur u. Umg.,2013,10.8,11.2,78.4,480,476.7,Anzahl
+0,Region Winterthur u. Umg.,2014,10.3,11.2,78.4,477,476.7,Anzahl
+0,Region Winterthur u. Umg.,2015,10.3,11.2,78.4,479,476.7,Anzahl
+0,Region Winterthur u. Umg.,2016,11.3,11.2,78.4,479,476.7,Anzahl
+0,Region Zimmerberg,2010,8.1,7.7,53.9,503,507.6,Anzahl
+0,Region Zimmerberg,2011,8.1,7.7,53.9,505,507.6,Anzahl
+0,Region Zimmerberg,2012,8.0,7.7,53.9,509,507.6,Anzahl
+0,Region Zimmerberg,2013,7.8,7.7,53.9,511,507.6,Anzahl
+0,Region Zimmerberg,2014,7.6,7.7,53.9,509,507.6,Anzahl
+0,Region Zimmerberg,2015,6.9,7.7,53.9,509,507.6,Anzahl
+0,Region Zimmerberg,2016,7.4,7.7,53.9,507,507.6,Anzahl
+0,Region Zürich,2010,10.3,10.64,74.5,357,352.1,Anzahl
+0,Region Zürich,2011,9.7,10.64,74.5,352,352.1,Anzahl
+0,Region Zürich,2012,9.3,10.64,74.5,358,352.1,Anzahl
+0,Region Zürich,2013,9.5,10.64,74.5,355,352.1,Anzahl
+0,Region Zürich,2014,9.1,10.64,74.5,351,352.1,Anzahl
+0,Region Zürich,2015,12.1,10.64,74.5,348,352.1,Anzahl
+0,Region Zürich,2016,14.5,10.64,74.5,344,352.1,Anzahl
+0,Zürich - ganzer Kanton,2010,10.2,9.76,68.3,489,489.1,Anzahl
+0,Zürich - ganzer Kanton,2011,9.5,9.76,68.3,488,489.1,Anzahl
+0,Zürich - ganzer Kanton,2012,9.4,9.76,68.3,490,489.1,Anzahl
+0,Zürich - ganzer Kanton,2013,9.4,9.76,68.3,491,489.1,Anzahl
+0,Zürich - ganzer Kanton,2014,9.1,9.76,68.3,489,489.1,Anzahl
+0,Zürich - ganzer Kanton,2015,9.8,9.76,68.3,489,489.1,Anzahl
+0,Zürich - ganzer Kanton,2016,10.9,9.76,68.3,488,489.1,Anzahl
+1,Aeugst a.A.,2010,3.3,4.5,31.5,606,596.7,Anzahl
+1,Aeugst a.A.,2011,6.8,4.5,31.5,604,596.7,Anzahl
+1,Aeugst a.A.,2012,4.6,4.5,31.5,593,596.7,Anzahl
+1,Aeugst a.A.,2013,5.1,4.5,31.5,591,596.7,Anzahl
+1,Aeugst a.A.,2014,4.1,4.5,31.5,590,596.7,Anzahl
+1,Aeugst a.A.,2015,3.0,4.5,31.5,601,596.7,Anzahl
+1,Aeugst a.A.,2016,4.6,4.5,31.5,592,596.7,Anzahl
+2,Affoltern a.A.,2010,9.0,8.26,57.8,496,512.7,Anzahl
+2,Affoltern a.A.,2011,8.1,8.26,57.8,498,512.7,Anzahl
+2,Affoltern a.A.,2012,7.5,8.26,57.8,515,512.7,Anzahl
+2,Affoltern a.A.,2013,7.1,8.26,57.8,516,512.7,Anzahl
+2,Affoltern a.A.,2014,7.9,8.26,57.8,518,512.7,Anzahl
+2,Affoltern a.A.,2015,8.6,8.26,57.8,525,512.7,Anzahl
+2,Affoltern a.A.,2016,9.6,8.26,57.8,521,512.7,Anzahl
+3,Bonstetten,2010,7.2,5.73,40.1,504,505.1,Anzahl
+3,Bonstetten,2011,5.4,5.73,40.1,500,505.1,Anzahl
+3,Bonstetten,2012,5.8,5.73,40.1,507,505.1,Anzahl
+3,Bonstetten,2013,5.7,5.73,40.1,505,505.1,Anzahl
+3,Bonstetten,2014,6.1,5.73,40.1,502,505.1,Anzahl
+3,Bonstetten,2015,5.3,5.73,40.1,505,505.1,Anzahl
+3,Bonstetten,2016,4.6,5.73,40.1,513,505.1,Anzahl
+4,Hausen a.A.,2010,6.2,4.87,34.1,548,565,Anzahl
+4,Hausen a.A.,2011,4.2,4.87,34.1,545,565,Anzahl
+4,Hausen a.A.,2012,3.6,4.87,34.1,562,565,Anzahl
+4,Hausen a.A.,2013,4.7,4.87,34.1,566,565,Anzahl
+4,Hausen a.A.,2014,4.3,4.87,34.1,576,565,Anzahl
+4,Hausen a.A.,2015,5.8,4.87,34.1,576,565,Anzahl
+4,Hausen a.A.,2016,5.3,4.87,34.1,582,565,Anzahl
+5,Hedingen,2010,5.9,4.77,33.4,498,518.7,Anzahl
+5,Hedingen,2011,4.9,4.77,33.4,510,518.7,Anzahl
+5,Hedingen,2012,3.4,4.77,33.4,523,518.7,Anzahl
+5,Hedingen,2013,3.1,4.77,33.4,527,518.7,Anzahl
+5,Hedingen,2014,6.3,4.77,33.4,523,518.7,Anzahl
+5,Hedingen,2015,6.3,4.77,33.4,522,518.7,Anzahl
+5,Hedingen,2016,3.5,4.77,33.4,528,518.7,Anzahl
+6,Kappel a.A.,2010,6.5,6.4,44.8,549,568,Anzahl
+6,Kappel a.A.,2011,9.5,6.4,44.8,547,568,Anzahl
+6,Kappel a.A.,2012,10.8,6.4,44.8,554,568,Anzahl
+6,Kappel a.A.,2013,9.4,6.4,44.8,582,568,Anzahl
+6,Kappel a.A.,2014,1.0,6.4,44.8,591,568,Anzahl
+6,Kappel a.A.,2015,4.9,6.4,44.8,576,568,Anzahl
+6,Kappel a.A.,2016,2.7,6.4,44.8,577,568,Anzahl
+7,Knonau,2010,12.2,10.46,73.2,475,494.4,Anzahl
+7,Knonau,2011,9.5,10.46,73.2,479,494.4,Anzahl
+7,Knonau,2012,12.6,10.46,73.2,502,494.4,Anzahl
+7,Knonau,2013,5.5,10.46,73.2,492,494.4,Anzahl
+7,Knonau,2014,12.3,10.46,73.2,497,494.4,Anzahl
+7,Knonau,2015,10.0,10.46,73.2,512,494.4,Anzahl
+7,Knonau,2016,11.1,10.46,73.2,504,494.4,Anzahl
+8,Maschwanden,2010,13.1,3.63,25.4,556,573.7,Anzahl
+8,Maschwanden,2011,1.6,3.63,25.4,574,573.7,Anzahl
+8,Maschwanden,2012,0.0,3.63,25.4,565,573.7,Anzahl
+8,Maschwanden,2013,6.0,3.63,25.4,588,573.7,Anzahl
+8,Maschwanden,2014,1.5,3.63,25.4,583,573.7,Anzahl
+8,Maschwanden,2015,1.6,3.63,25.4,578,573.7,Anzahl
+8,Maschwanden,2016,1.6,3.63,25.4,572,573.7,Anzahl
+9,Mettmenstetten,2010,6.8,7.59,53.1,517,546.4,Anzahl
+9,Mettmenstetten,2011,9.1,7.59,53.1,536,546.4,Anzahl
+9,Mettmenstetten,2012,7.7,7.59,53.1,551,546.4,Anzahl
+9,Mettmenstetten,2013,4.8,7.59,53.1,548,546.4,Anzahl
+9,Mettmenstetten,2014,8.7,7.59,53.1,554,546.4,Anzahl
+9,Mettmenstetten,2015,8.6,7.59,53.1,562,546.4,Anzahl
+9,Mettmenstetten,2016,7.4,7.59,53.1,557,546.4,Anzahl
+10,Obfelden,2010,11.5,11.36,79.5,545,560.1,Anzahl
+10,Obfelden,2011,12.8,11.36,79.5,552,560.1,Anzahl
+10,Obfelden,2012,9.3,11.36,79.5,559,560.1,Anzahl
+10,Obfelden,2013,13.6,11.36,79.5,560,560.1,Anzahl
+10,Obfelden,2014,10.2,11.36,79.5,562,560.1,Anzahl
+10,Obfelden,2015,10.8,11.36,79.5,566,560.1,Anzahl
+10,Obfelden,2016,11.3,11.36,79.5,577,560.1,Anzahl
+11,Ottenbach,2010,4.1,4.63,32.4,583,599,Anzahl
+11,Ottenbach,2011,5.3,4.63,32.4,590,599,Anzahl
+11,Ottenbach,2012,5.6,4.63,32.4,590,599,Anzahl
+11,Ottenbach,2013,6.9,4.63,32.4,593,599,Anzahl
+11,Ottenbach,2014,4.3,4.63,32.4,608,599,Anzahl
+11,Ottenbach,2015,3.1,4.63,32.4,614,599,Anzahl
+11,Ottenbach,2016,3.1,4.63,32.4,615,599,Anzahl
+12,Rifferswil,2010,6.7,7.97,55.8,527,544.4,Anzahl
+12,Rifferswil,2011,7.5,7.97,55.8,523,544.4,Anzahl
+12,Rifferswil,2012,7.3,7.97,55.8,550,544.4,Anzahl
+12,Rifferswil,2013,10.4,7.97,55.8,557,544.4,Anzahl
+12,Rifferswil,2014,9.0,7.97,55.8,558,544.4,Anzahl
+12,Rifferswil,2015,4.7,7.97,55.8,561,544.4,Anzahl
+12,Rifferswil,2016,10.2,7.97,55.8,535,544.4,Anzahl
+13,Stallikon,2010,9.8,7.07,49.5,654,637,Anzahl
+13,Stallikon,2011,8.3,7.07,49.5,641,637,Anzahl
+13,Stallikon,2012,7.9,7.07,49.5,646,637,Anzahl
+13,Stallikon,2013,6.9,7.07,49.5,644,637,Anzahl
+13,Stallikon,2014,3.0,7.07,49.5,626,637,Anzahl
+13,Stallikon,2015,7.3,7.07,49.5,633,637,Anzahl
+13,Stallikon,2016,6.3,7.07,49.5,615,637,Anzahl
+14,Wettswil a.A.,2010,9.1,7.71,54,588,595.4,Anzahl
+14,Wettswil a.A.,2011,7.0,7.71,54,584,595.4,Anzahl
+14,Wettswil a.A.,2012,9.0,7.71,54,596,595.4,Anzahl
+14,Wettswil a.A.,2013,8.4,7.71,54,601,595.4,Anzahl
+14,Wettswil a.A.,2014,5.9,7.71,54,596,595.4,Anzahl
+14,Wettswil a.A.,2015,7.5,7.71,54,605,595.4,Anzahl
+14,Wettswil a.A.,2016,7.1,7.71,54,598,595.4,Anzahl
+21,Adlikon,2010,27.7,23.54,164.8,660,698,Anzahl
+21,Adlikon,2011,27.6,23.54,164.8,681,698,Anzahl
+21,Adlikon,2012,26.7,23.54,164.8,661,698,Anzahl
+21,Adlikon,2013,26.2,23.54,164.8,710,698,Anzahl
+21,Adlikon,2014,27.9,23.54,164.8,710,698,Anzahl
+21,Adlikon,2015,16.6,23.54,164.8,759,698,Anzahl
+21,Adlikon,2016,12.1,23.54,164.8,705,698,Anzahl
+22,Benken,2010,10.0,12.19,85.3,599,620,Anzahl
+22,Benken,2011,18.3,12.19,85.3,578,620,Anzahl
+22,Benken,2012,10.9,12.19,85.3,624,620,Anzahl
+22,Benken,2013,7.2,12.19,85.3,657,620,Anzahl
+22,Benken,2014,13.3,12.19,85.3,624,620,Anzahl
+22,Benken,2015,12.8,12.19,85.3,635,620,Anzahl
+22,Benken,2016,12.8,12.19,85.3,623,620,Anzahl
+23,Berg a.I.,2010,1.7,4.94,34.6,636,681.6,Anzahl
+23,Berg a.I.,2011,6.8,4.94,34.6,663,681.6,Anzahl
+23,Berg a.I.,2012,1.7,4.94,34.6,683,681.6,Anzahl
+23,Berg a.I.,2013,10.4,4.94,34.6,685,681.6,Anzahl
+23,Berg a.I.,2014,5.2,4.94,34.6,694,681.6,Anzahl
+23,Berg a.I.,2015,5.3,4.94,34.6,696,681.6,Anzahl
+23,Berg a.I.,2016,3.5,4.94,34.6,714,681.6,Anzahl
+24,Buch a.I.,2010,3.4,3.1,21.7,623,625.3,Anzahl
+24,Buch a.I.,2011,2.2,3.1,21.7,609,625.3,Anzahl
+24,Buch a.I.,2012,2.2,3.1,21.7,598,625.3,Anzahl
+24,Buch a.I.,2013,3.3,3.1,21.7,630,625.3,Anzahl
+24,Buch a.I.,2014,4.3,3.1,21.7,627,625.3,Anzahl
+24,Buch a.I.,2015,2.1,3.1,21.7,657,625.3,Anzahl
+24,Buch a.I.,2016,4.2,3.1,21.7,633,625.3,Anzahl
+25,Dachsen,2010,5.2,4.13,28.9,501,512.3,Anzahl
+25,Dachsen,2011,4.6,4.13,28.9,503,512.3,Anzahl
+25,Dachsen,2012,3.1,4.13,28.9,506,512.3,Anzahl
+25,Dachsen,2013,3.5,4.13,28.9,520,512.3,Anzahl
+25,Dachsen,2014,4.5,4.13,28.9,521,512.3,Anzahl
+25,Dachsen,2015,3.5,4.13,28.9,507,512.3,Anzahl
+25,Dachsen,2016,4.5,4.13,28.9,528,512.3,Anzahl
+26,Dorf,2010,11.1,3.63,25.4,614,649.1,Anzahl
+26,Dorf,2011,1.6,3.63,25.4,626,649.1,Anzahl
+26,Dorf,2012,0.0,3.63,25.4,645,649.1,Anzahl
+26,Dorf,2013,3.2,3.63,25.4,651,649.1,Anzahl
+26,Dorf,2014,3.1,3.63,25.4,666,649.1,Anzahl
+26,Dorf,2015,0.0,3.63,25.4,661,649.1,Anzahl
+26,Dorf,2016,6.4,3.63,25.4,681,649.1,Anzahl
+27,Feuerthalen,2010,8.7,6.9,48.3,469,484.9,Anzahl
+27,Feuerthalen,2011,5.8,6.9,48.3,475,484.9,Anzahl
+27,Feuerthalen,2012,6.4,6.9,48.3,488,484.9,Anzahl
+27,Feuerthalen,2013,6.3,6.9,48.3,494,484.9,Anzahl
+27,Feuerthalen,2014,4.6,6.9,48.3,493,484.9,Anzahl
+27,Feuerthalen,2015,7.9,6.9,48.3,492,484.9,Anzahl
+27,Feuerthalen,2016,8.6,6.9,48.3,483,484.9,Anzahl
+28,Flaach,2010,4.9,6.11,42.8,596,642.6,Anzahl
+28,Flaach,2011,3.2,6.11,42.8,609,642.6,Anzahl
+28,Flaach,2012,4.5,6.11,42.8,659,642.6,Anzahl
+28,Flaach,2013,5.2,6.11,42.8,663,642.6,Anzahl
+28,Flaach,2014,7.3,6.11,42.8,654,642.6,Anzahl
+28,Flaach,2015,14.0,6.11,42.8,659,642.6,Anzahl
+28,Flaach,2016,3.7,6.11,42.8,658,642.6,Anzahl
+29,Flurlingen,2010,7.0,8.34,58.4,483,490.1,Anzahl
+29,Flurlingen,2011,6.3,8.34,58.4,483,490.1,Anzahl
+29,Flurlingen,2012,7.1,8.34,58.4,493,490.1,Anzahl
+29,Flurlingen,2013,9.3,8.34,58.4,500,490.1,Anzahl
+29,Flurlingen,2014,7.7,8.34,58.4,506,490.1,Anzahl
+29,Flurlingen,2015,7.0,8.34,58.4,492,490.1,Anzahl
+29,Flurlingen,2016,14.0,8.34,58.4,474,490.1,Anzahl
+30,Andelfingen,2010,10.8,9.43,66,562,571.6,Anzahl
+30,Andelfingen,2011,8.5,9.43,66,581,571.6,Anzahl
+30,Andelfingen,2012,12.1,9.43,66,575,571.6,Anzahl
+30,Andelfingen,2013,6.2,9.43,66,586,571.6,Anzahl
+30,Andelfingen,2014,7.9,9.43,66,572,571.6,Anzahl
+30,Andelfingen,2015,11.5,9.43,66,563,571.6,Anzahl
+30,Andelfingen,2016,9.0,9.43,66,562,571.6,Anzahl
+31,Henggart,2010,14.5,10.71,75,529,531.7,Anzahl
+31,Henggart,2011,11.2,10.71,75,522,531.7,Anzahl
+31,Henggart,2012,6.7,10.71,75,526,531.7,Anzahl
+31,Henggart,2013,11.9,10.71,75,532,531.7,Anzahl
+31,Henggart,2014,7.5,10.71,75,541,531.7,Anzahl
+31,Henggart,2015,10.7,10.71,75,533,531.7,Anzahl
+31,Henggart,2016,12.5,10.71,75,539,531.7,Anzahl
+32,Humlikon,2010,11.0,13.49,94.4,577,581.9,Anzahl
+32,Humlikon,2011,10.5,13.49,94.4,590,581.9,Anzahl
+32,Humlikon,2012,18.6,13.49,94.4,577,581.9,Anzahl
+32,Humlikon,2013,4.1,13.49,94.4,585,581.9,Anzahl
+32,Humlikon,2014,6.0,13.49,94.4,591,581.9,Anzahl
+32,Humlikon,2015,9.9,13.49,94.4,566,581.9,Anzahl
+32,Humlikon,2016,34.3,13.49,94.4,587,581.9,Anzahl
+33,Kleinandelfingen,2010,15.9,14.64,102.5,608,615.9,Anzahl
+33,Kleinandelfingen,2011,17.3,14.64,102.5,608,615.9,Anzahl
+33,Kleinandelfingen,2012,10.0,14.64,102.5,615,615.9,Anzahl
+33,Kleinandelfingen,2013,14.2,14.64,102.5,622,615.9,Anzahl
+33,Kleinandelfingen,2014,12.6,14.64,102.5,625,615.9,Anzahl
+33,Kleinandelfingen,2015,16.0,14.64,102.5,612,615.9,Anzahl
+33,Kleinandelfingen,2016,16.5,14.64,102.5,621,615.9,Anzahl
+34,Laufen-Uhwiesen,2010,9.9,8.94,62.6,540,559.4,Anzahl
+34,Laufen-Uhwiesen,2011,13.7,8.94,62.6,548,559.4,Anzahl
+34,Laufen-Uhwiesen,2012,11.5,8.94,62.6,562,559.4,Anzahl
+34,Laufen-Uhwiesen,2013,7.4,8.94,62.6,583,559.4,Anzahl
+34,Laufen-Uhwiesen,2014,5.5,8.94,62.6,554,559.4,Anzahl
+34,Laufen-Uhwiesen,2015,5.5,8.94,62.6,561,559.4,Anzahl
+34,Laufen-Uhwiesen,2016,9.1,8.94,62.6,568,559.4,Anzahl
+35,Marthalen,2010,8.3,8.69,60.8,590,606.6,Anzahl
+35,Marthalen,2011,8.1,8.69,60.8,597,606.6,Anzahl
+35,Marthalen,2012,9.2,8.69,60.8,606,606.6,Anzahl
+35,Marthalen,2013,7.1,8.69,60.8,615,606.6,Anzahl
+35,Marthalen,2014,7.0,8.69,60.8,612,606.6,Anzahl
+35,Marthalen,2015,7.7,8.69,60.8,603,606.6,Anzahl
+35,Marthalen,2016,13.4,8.69,60.8,623,606.6,Anzahl
+36,Oberstammheim,2010,4.6,2.4,16.8,538,558.7,Anzahl
+36,Oberstammheim,2011,0.0,2.4,16.8,552,558.7,Anzahl
+36,Oberstammheim,2012,2.7,2.4,16.8,567,558.7,Anzahl
+36,Oberstammheim,2013,7.0,2.4,16.8,581,558.7,Anzahl
+36,Oberstammheim,2014,0.0,2.4,16.8,556,558.7,Anzahl
+36,Oberstammheim,2015,1.7,2.4,16.8,559,558.7,Anzahl
+36,Oberstammheim,2016,0.8,2.4,16.8,558,558.7,Anzahl
+37,Ossingen,2010,8.9,6.74,47.2,526,559,Anzahl
+37,Ossingen,2011,8.1,6.74,47.2,543,559,Anzahl
+37,Ossingen,2012,5.2,6.74,47.2,557,559,Anzahl
+37,Ossingen,2013,8.1,6.74,47.2,566,559,Anzahl
+37,Ossingen,2014,6.5,6.74,47.2,560,559,Anzahl
+37,Ossingen,2015,5.6,6.74,47.2,575,559,Anzahl
+37,Ossingen,2016,4.8,6.74,47.2,586,559,Anzahl
+38,Rheinau,2010,7.7,6.4,44.8,536,570,Anzahl
+38,Rheinau,2011,5.3,6.4,44.8,566,570,Anzahl
+38,Rheinau,2012,5.2,6.4,44.8,566,570,Anzahl
+38,Rheinau,2013,3.0,6.4,44.8,562,570,Anzahl
+38,Rheinau,2014,6.1,6.4,44.8,570,570,Anzahl
+38,Rheinau,2015,11.4,6.4,44.8,598,570,Anzahl
+38,Rheinau,2016,6.1,6.4,44.8,592,570,Anzahl
+39,Thalheim a.d.Th.,2010,6.1,6.26,43.8,612,630.7,Anzahl
+39,Thalheim a.d.Th.,2011,2.3,6.26,43.8,654,630.7,Anzahl
+39,Thalheim a.d.Th.,2012,7.8,6.26,43.8,628,630.7,Anzahl
+39,Thalheim a.d.Th.,2013,6.6,6.26,43.8,636,630.7,Anzahl
+39,Thalheim a.d.Th.,2014,5.5,6.26,43.8,619,630.7,Anzahl
+39,Thalheim a.d.Th.,2015,8.9,6.26,43.8,615,630.7,Anzahl
+39,Thalheim a.d.Th.,2016,6.6,6.26,43.8,651,630.7,Anzahl
+40,Trüllikon,2010,12.1,7.54,52.8,633,643.3,Anzahl
+40,Trüllikon,2011,5.0,7.54,52.8,626,643.3,Anzahl
+40,Trüllikon,2012,11.2,7.54,52.8,651,643.3,Anzahl
+40,Trüllikon,2013,8.1,7.54,52.8,658,643.3,Anzahl
+40,Trüllikon,2014,5.9,7.54,52.8,652,643.3,Anzahl
+40,Trüllikon,2015,3.0,7.54,52.8,639,643.3,Anzahl
+40,Trüllikon,2016,7.5,7.54,52.8,644,643.3,Anzahl
+41,Truttikon,2010,6.3,5.5,38.5,561,589.3,Anzahl
+41,Truttikon,2011,0.0,5.5,38.5,596,589.3,Anzahl
+41,Truttikon,2012,2.2,5.5,38.5,591,589.3,Anzahl
+41,Truttikon,2013,2.2,5.5,38.5,598,589.3,Anzahl
+41,Truttikon,2014,8.6,5.5,38.5,614,589.3,Anzahl
+41,Truttikon,2015,8.5,5.5,38.5,605,589.3,Anzahl
+41,Truttikon,2016,10.7,5.5,38.5,560,589.3,Anzahl
+42,Unterstammheim,2010,17.1,9.49,66.4,514,550.3,Anzahl
+42,Unterstammheim,2011,7.9,9.49,66.4,549,550.3,Anzahl
+42,Unterstammheim,2012,10.5,9.49,66.4,551,550.3,Anzahl
+42,Unterstammheim,2013,6.8,9.49,66.4,560,550.3,Anzahl
+42,Unterstammheim,2014,7.8,9.49,66.4,554,550.3,Anzahl
+42,Unterstammheim,2015,11.9,9.49,66.4,569,550.3,Anzahl
+42,Unterstammheim,2016,4.4,9.49,66.4,555,550.3,Anzahl
+43,Volken,2010,3.2,4.07,28.5,534,571.3,Anzahl
+43,Volken,2011,6.5,4.07,28.5,577,571.3,Anzahl
+43,Volken,2012,9.6,4.07,28.5,580,571.3,Anzahl
+43,Volken,2013,3.3,4.07,28.5,550,571.3,Anzahl
+43,Volken,2014,0.0,4.07,28.5,590,571.3,Anzahl
+43,Volken,2015,2.9,4.07,28.5,578,571.3,Anzahl
+43,Volken,2016,3.0,4.07,28.5,590,571.3,Anzahl
+44,Waltalingen,2010,1.4,3.97,27.8,596,625.1,Anzahl
+44,Waltalingen,2011,7.3,3.97,27.8,593,625.1,Anzahl
+44,Waltalingen,2012,0.0,3.97,27.8,622,625.1,Anzahl
+44,Waltalingen,2013,4.3,3.97,27.8,643,625.1,Anzahl
+44,Waltalingen,2014,5.9,3.97,27.8,647,625.1,Anzahl
+44,Waltalingen,2015,5.9,3.97,27.8,631,625.1,Anzahl
+44,Waltalingen,2016,3.0,3.97,27.8,644,625.1,Anzahl
+51,Bachenbülach,2010,7.5,8.86,62,569,572.7,Anzahl
+51,Bachenbülach,2011,9.5,8.86,62,583,572.7,Anzahl
+51,Bachenbülach,2012,9.2,8.86,62,568,572.7,Anzahl
+51,Bachenbülach,2013,9.2,8.86,62,564,572.7,Anzahl
+51,Bachenbülach,2014,8.6,8.86,62,565,572.7,Anzahl
+51,Bachenbülach,2015,9.4,8.86,62,569,572.7,Anzahl
+51,Bachenbülach,2016,8.6,8.86,62,591,572.7,Anzahl
+52,Bassersdorf,2010,7.7,7.14,50,525,533.4,Anzahl
+52,Bassersdorf,2011,7.0,7.14,50,530,533.4,Anzahl
+52,Bassersdorf,2012,8.0,7.14,50,533,533.4,Anzahl
+52,Bassersdorf,2013,7.1,7.14,50,534,533.4,Anzahl
+52,Bassersdorf,2014,6.4,7.14,50,535,533.4,Anzahl
+52,Bassersdorf,2015,7.3,7.14,50,540,533.4,Anzahl
+52,Bassersdorf,2016,6.5,7.14,50,537,533.4,Anzahl
+53,Bülach,2010,11.6,9.91,69.4,508,516.7,Anzahl
+53,Bülach,2011,9.7,9.91,69.4,504,516.7,Anzahl
+53,Bülach,2012,10.1,9.91,69.4,520,516.7,Anzahl
+53,Bülach,2013,9.3,9.91,69.4,518,516.7,Anzahl
+53,Bülach,2014,9.3,9.91,69.4,517,516.7,Anzahl
+53,Bülach,2015,10.0,9.91,69.4,526,516.7,Anzahl
+53,Bülach,2016,9.4,9.91,69.4,524,516.7,Anzahl
+54,Dietlikon,2010,15.3,14.67,102.7,581,580,Anzahl
+54,Dietlikon,2011,15.6,14.67,102.7,586,580,Anzahl
+54,Dietlikon,2012,16.2,14.67,102.7,593,580,Anzahl
+54,Dietlikon,2013,14.5,14.67,102.7,577,580,Anzahl
+54,Dietlikon,2014,14.4,14.67,102.7,581,580,Anzahl
+54,Dietlikon,2015,13.1,14.67,102.7,575,580,Anzahl
+54,Dietlikon,2016,13.6,14.67,102.7,567,580,Anzahl
+55,Eglisau,2010,10.7,8.5,59.5,592,570,Anzahl
+55,Eglisau,2011,6.2,8.5,59.5,577,570,Anzahl
+55,Eglisau,2012,9.4,8.5,59.5,575,570,Anzahl
+55,Eglisau,2013,8.9,8.5,59.5,579,570,Anzahl
+55,Eglisau,2014,8.9,8.5,59.5,550,570,Anzahl
+55,Eglisau,2015,8.2,8.5,59.5,556,570,Anzahl
+55,Eglisau,2016,7.2,8.5,59.5,561,570,Anzahl
+56,Embrach,2010,6.5,6.79,47.5,552,558.9,Anzahl
+56,Embrach,2011,6.1,6.79,47.5,555,558.9,Anzahl
+56,Embrach,2012,6.5,6.79,47.5,560,558.9,Anzahl
+56,Embrach,2013,7.5,6.79,47.5,560,558.9,Anzahl
+56,Embrach,2014,5.9,6.79,47.5,564,558.9,Anzahl
+56,Embrach,2015,6.8,6.79,47.5,563,558.9,Anzahl
+56,Embrach,2016,8.2,6.79,47.5,558,558.9,Anzahl
+57,Freienstein-Teufen,2010,5.2,5.07,35.5,561,584.4,Anzahl
+57,Freienstein-Teufen,2011,4.8,5.07,35.5,564,584.4,Anzahl
+57,Freienstein-Teufen,2012,4.7,5.07,35.5,581,584.4,Anzahl
+57,Freienstein-Teufen,2013,6.6,5.07,35.5,584,584.4,Anzahl
+57,Freienstein-Teufen,2014,3.9,5.07,35.5,591,584.4,Anzahl
+57,Freienstein-Teufen,2015,5.6,5.07,35.5,604,584.4,Anzahl
+57,Freienstein-Teufen,2016,4.7,5.07,35.5,606,584.4,Anzahl
+58,Glattfelden,2010,8.5,6.51,45.6,585,607.1,Anzahl
+58,Glattfelden,2011,6.7,6.51,45.6,620,607.1,Anzahl
+58,Glattfelden,2012,5.3,6.51,45.6,606,607.1,Anzahl
+58,Glattfelden,2013,7.1,6.51,45.6,604,607.1,Anzahl
+58,Glattfelden,2014,5.2,6.51,45.6,612,607.1,Anzahl
+58,Glattfelden,2015,5.1,6.51,45.6,612,607.1,Anzahl
+58,Glattfelden,2016,7.7,6.51,45.6,611,607.1,Anzahl
+59,Hochfelden,2010,4.0,4.7,32.9,588,587,Anzahl
+59,Hochfelden,2011,4.5,4.7,32.9,571,587,Anzahl
+59,Hochfelden,2012,4.9,4.7,32.9,575,587,Anzahl
+59,Hochfelden,2013,5.0,4.7,32.9,584,587,Anzahl
+59,Hochfelden,2014,6.4,4.7,32.9,585,587,Anzahl
+59,Hochfelden,2015,3.5,4.7,32.9,598,587,Anzahl
+59,Hochfelden,2016,4.6,4.7,32.9,608,587,Anzahl
+60,Höri,2010,10.2,11.56,80.9,604,635,Anzahl
+60,Höri,2011,11.0,11.56,80.9,609,635,Anzahl
+60,Höri,2012,11.9,11.56,80.9,637,635,Anzahl
+60,Höri,2013,11.4,11.56,80.9,633,635,Anzahl
+60,Höri,2014,9.4,11.56,80.9,652,635,Anzahl
+60,Höri,2015,14.4,11.56,80.9,644,635,Anzahl
+60,Höri,2016,12.6,11.56,80.9,666,635,Anzahl
+61,Hüntwangen,2010,10.6,15.33,107.3,574,625.4,Anzahl
+61,Hüntwangen,2011,14.6,15.33,107.3,615,625.4,Anzahl
+61,Hüntwangen,2012,18.0,15.33,107.3,635,625.4,Anzahl
+61,Hüntwangen,2013,13.9,15.33,107.3,616,625.4,Anzahl
+61,Hüntwangen,2014,20.7,15.33,107.3,636,625.4,Anzahl
+61,Hüntwangen,2015,14.8,15.33,107.3,642,625.4,Anzahl
+61,Hüntwangen,2016,14.7,15.33,107.3,660,625.4,Anzahl
+62,Kloten,2010,21.7,21.67,151.7,518,524.6,Anzahl
+62,Kloten,2011,18.6,21.67,151.7,518,524.6,Anzahl
+62,Kloten,2012,21.8,21.67,151.7,524,524.6,Anzahl
+62,Kloten,2013,21.7,21.67,151.7,527,524.6,Anzahl
+62,Kloten,2014,21.4,21.67,151.7,525,524.6,Anzahl
+62,Kloten,2015,21.6,21.67,151.7,529,524.6,Anzahl
+62,Kloten,2016,24.9,21.67,151.7,531,524.6,Anzahl
+63,Lufingen,2010,9.1,7.96,55.7,609,616.4,Anzahl
+63,Lufingen,2011,5.5,7.96,55.7,615,616.4,Anzahl
+63,Lufingen,2012,4.4,7.96,55.7,606,616.4,Anzahl
+63,Lufingen,2013,7.5,7.96,55.7,626,616.4,Anzahl
+63,Lufingen,2014,10.4,7.96,55.7,600,616.4,Anzahl
+63,Lufingen,2015,10.2,7.96,55.7,624,616.4,Anzahl
+63,Lufingen,2016,8.6,7.96,55.7,635,616.4,Anzahl
+64,Nürensdorf,2010,2.3,2.89,20.2,624,645.1,Anzahl
+64,Nürensdorf,2011,3.3,2.89,20.2,637,645.1,Anzahl
+64,Nürensdorf,2012,3.6,2.89,20.2,655,645.1,Anzahl
+64,Nürensdorf,2013,3.2,2.89,20.2,648,645.1,Anzahl
+64,Nürensdorf,2014,2.2,2.89,20.2,648,645.1,Anzahl
+64,Nürensdorf,2015,2.6,2.89,20.2,650,645.1,Anzahl
+64,Nürensdorf,2016,3.0,2.89,20.2,654,645.1,Anzahl
+65,Oberembrach,2010,10.4,13.16,92.1,622,669.1,Anzahl
+65,Oberembrach,2011,17.0,13.16,92.1,655,669.1,Anzahl
+65,Oberembrach,2012,14.6,13.16,92.1,675,669.1,Anzahl
+65,Oberembrach,2013,10.1,13.16,92.1,714,669.1,Anzahl
+65,Oberembrach,2014,16.5,13.16,92.1,666,669.1,Anzahl
+65,Oberembrach,2015,14.1,13.16,92.1,674,669.1,Anzahl
+65,Oberembrach,2016,9.4,13.16,92.1,678,669.1,Anzahl
+66,Opfikon,2010,16.7,15.9,111.3,537,529.7,Anzahl
+66,Opfikon,2011,16.0,15.9,111.3,535,529.7,Anzahl
+66,Opfikon,2012,14.3,15.9,111.3,545,529.7,Anzahl
+66,Opfikon,2013,17.4,15.9,111.3,531,529.7,Anzahl
+66,Opfikon,2014,16.6,15.9,111.3,535,529.7,Anzahl
+66,Opfikon,2015,13.8,15.9,111.3,522,529.7,Anzahl
+66,Opfikon,2016,16.5,15.9,111.3,503,529.7,Anzahl
+67,Rafz,2010,4.2,4.43,31,544,562.4,Anzahl
+67,Rafz,2011,3.2,4.43,31,545,562.4,Anzahl
+67,Rafz,2012,4.9,4.43,31,570,562.4,Anzahl
+67,Rafz,2013,4.6,4.43,31,571,562.4,Anzahl
+67,Rafz,2014,3.5,4.43,31,569,562.4,Anzahl
+67,Rafz,2015,5.8,4.43,31,571,562.4,Anzahl
+67,Rafz,2016,4.8,4.43,31,567,562.4,Anzahl
+68,Rorbas,2010,8.1,8.1,56.7,607,600.3,Anzahl
+68,Rorbas,2011,10.1,8.1,56.7,597,600.3,Anzahl
+68,Rorbas,2012,10.0,8.1,56.7,597,600.3,Anzahl
+68,Rorbas,2013,8.1,8.1,56.7,602,600.3,Anzahl
+68,Rorbas,2014,5.2,8.1,56.7,613,600.3,Anzahl
+68,Rorbas,2015,7.7,8.1,56.7,597,600.3,Anzahl
+68,Rorbas,2016,7.5,8.1,56.7,589,600.3,Anzahl
+69,Wallisellen,2010,23.0,23.54,164.8,572,585.4,Anzahl
+69,Wallisellen,2011,25.1,23.54,164.8,582,585.4,Anzahl
+69,Wallisellen,2012,22.8,23.54,164.8,587,585.4,Anzahl
+69,Wallisellen,2013,23.3,23.54,164.8,599,585.4,Anzahl
+69,Wallisellen,2014,24.2,23.54,164.8,593,585.4,Anzahl
+69,Wallisellen,2015,22.0,23.54,164.8,584,585.4,Anzahl
+69,Wallisellen,2016,24.4,23.54,164.8,581,585.4,Anzahl
+70,Wasterkingen,2010,1.8,1.79,12.5,608,632.9,Anzahl
+70,Wasterkingen,2011,0.0,1.79,12.5,612,632.9,Anzahl
+70,Wasterkingen,2012,3.7,1.79,12.5,618,632.9,Anzahl
+70,Wasterkingen,2013,1.7,1.79,12.5,642,632.9,Anzahl
+70,Wasterkingen,2014,5.3,1.79,12.5,647,632.9,Anzahl
+70,Wasterkingen,2015,0.0,1.79,12.5,657,632.9,Anzahl
+70,Wasterkingen,2016,0.0,1.79,12.5,646,632.9,Anzahl
+71,Wil,2010,11.7,9.7,67.9,580,606.6,Anzahl
+71,Wil,2011,6.2,9.7,67.9,600,606.6,Anzahl
+71,Wil,2012,10.8,9.7,67.9,603,606.6,Anzahl
+71,Wil,2013,8.4,9.7,67.9,614,606.6,Anzahl
+71,Wil,2014,13.3,9.7,67.9,624,606.6,Anzahl
+71,Wil,2015,11.6,9.7,67.9,613,606.6,Anzahl
+71,Wil,2016,5.9,9.7,67.9,612,606.6,Anzahl
+72,Winkel,2010,6.9,7.49,52.4,669,675.4,Anzahl
+72,Winkel,2011,5.9,7.49,52.4,666,675.4,Anzahl
+72,Winkel,2012,7.6,7.49,52.4,690,675.4,Anzahl
+72,Winkel,2013,8.4,7.49,52.4,681,675.4,Anzahl
+72,Winkel,2014,7.7,7.49,52.4,665,675.4,Anzahl
+72,Winkel,2015,9.0,7.49,52.4,672,675.4,Anzahl
+72,Winkel,2016,6.9,7.49,52.4,685,675.4,Anzahl
+81,Bachs,2010,3.5,4.84,33.9,622,645.3,Anzahl
+81,Bachs,2011,1.8,4.84,33.9,632,645.3,Anzahl
+81,Bachs,2012,5.2,4.84,33.9,647,645.3,Anzahl
+81,Bachs,2013,6.6,4.84,33.9,652,645.3,Anzahl
+81,Bachs,2014,1.7,4.84,33.9,644,645.3,Anzahl
+81,Bachs,2015,5.1,4.84,33.9,645,645.3,Anzahl
+81,Bachs,2016,10.0,4.84,33.9,675,645.3,Anzahl
+82,Boppelsen,2010,3.1,3.07,21.5,623,642.7,Anzahl
+82,Boppelsen,2011,2.3,3.07,21.5,651,642.7,Anzahl
+82,Boppelsen,2012,2.4,3.07,21.5,641,642.7,Anzahl
+82,Boppelsen,2013,2.3,3.07,21.5,660,642.7,Anzahl
+82,Boppelsen,2014,2.3,3.07,21.5,623,642.7,Anzahl
+82,Boppelsen,2015,3.8,3.07,21.5,657,642.7,Anzahl
+82,Boppelsen,2016,5.3,3.07,21.5,644,642.7,Anzahl
+83,Buchs,2010,7.2,6.69,46.8,578,586.9,Anzahl
+83,Buchs,2011,6.1,6.69,46.8,579,586.9,Anzahl
+83,Buchs,2012,6.3,6.69,46.8,600,586.9,Anzahl
+83,Buchs,2013,7.9,6.69,46.8,590,586.9,Anzahl
+83,Buchs,2014,6.0,6.69,46.8,579,586.9,Anzahl
+83,Buchs,2015,7.0,6.69,46.8,596,586.9,Anzahl
+83,Buchs,2016,6.3,6.69,46.8,586,586.9,Anzahl
+84,Dällikon,2010,5.8,6.24,43.7,651,656.7,Anzahl
+84,Dällikon,2011,6.3,6.24,43.7,641,656.7,Anzahl
+84,Dällikon,2012,7.3,6.24,43.7,663,656.7,Anzahl
+84,Dällikon,2013,7.2,6.24,43.7,659,656.7,Anzahl
+84,Dällikon,2014,5.4,6.24,43.7,664,656.7,Anzahl
+84,Dällikon,2015,6.3,6.24,43.7,655,656.7,Anzahl
+84,Dällikon,2016,5.4,6.24,43.7,664,656.7,Anzahl
+85,Dänikon,2010,5.3,3,21,594,609.9,Anzahl
+85,Dänikon,2011,4.2,3,21,606,609.9,Anzahl
+85,Dänikon,2012,1.0,3,21,626,609.9,Anzahl
+85,Dänikon,2013,2.1,3,21,615,609.9,Anzahl
+85,Dänikon,2014,4.1,3,21,599,609.9,Anzahl
+85,Dänikon,2015,1.1,3,21,605,609.9,Anzahl
+85,Dänikon,2016,3.2,3,21,624,609.9,Anzahl
+86,Dielsdorf,2010,12.8,12.3,86.1,679,704.7,Anzahl
+86,Dielsdorf,2011,11.6,12.3,86.1,673,704.7,Anzahl
+86,Dielsdorf,2012,11.1,12.3,86.1,652,704.7,Anzahl
+86,Dielsdorf,2013,9.4,12.3,86.1,686,704.7,Anzahl
+86,Dielsdorf,2014,15.1,12.3,86.1,705,704.7,Anzahl
+86,Dielsdorf,2015,11.5,12.3,86.1,766,704.7,Anzahl
+86,Dielsdorf,2016,14.6,12.3,86.1,772,704.7,Anzahl
+87,Hüttikon,2010,1.5,4.54,31.8,699,731.3,Anzahl
+87,Hüttikon,2011,4.5,4.54,31.8,722,731.3,Anzahl
+87,Hüttikon,2012,6.0,4.54,31.8,732,731.3,Anzahl
+87,Hüttikon,2013,7.4,4.54,31.8,760,731.3,Anzahl
+87,Hüttikon,2014,5.7,4.54,31.8,750,731.3,Anzahl
+87,Hüttikon,2015,3.4,4.54,31.8,768,731.3,Anzahl
+87,Hüttikon,2016,3.3,4.54,31.8,688,731.3,Anzahl
+88,Neerach,2010,10.4,6.86,48,686,720.1,Anzahl
+88,Neerach,2011,4.0,6.86,48,707,720.1,Anzahl
+88,Neerach,2012,7.3,6.86,48,703,720.1,Anzahl
+88,Neerach,2013,6.0,6.86,48,721,720.1,Anzahl
+88,Neerach,2014,7.0,6.86,48,733,720.1,Anzahl
+88,Neerach,2015,4.9,6.86,48,746,720.1,Anzahl
+88,Neerach,2016,8.4,6.86,48,745,720.1,Anzahl
+89,Niederglatt,2010,4.2,3.94,27.6,566,579.1,Anzahl
+89,Niederglatt,2011,4.2,3.94,27.6,562,579.1,Anzahl
+89,Niederglatt,2012,4.2,3.94,27.6,575,579.1,Anzahl
+89,Niederglatt,2013,3.9,3.94,27.6,586,579.1,Anzahl
+89,Niederglatt,2014,2.8,3.94,27.6,590,579.1,Anzahl
+89,Niederglatt,2015,3.6,3.94,27.6,579,579.1,Anzahl
+89,Niederglatt,2016,4.7,3.94,27.6,596,579.1,Anzahl
+90,Niederhasli,2010,8.0,6.27,43.9,560,572.4,Anzahl
+90,Niederhasli,2011,5.2,6.27,43.9,569,572.4,Anzahl
+90,Niederhasli,2012,6.5,6.27,43.9,579,572.4,Anzahl
+90,Niederhasli,2013,5.2,6.27,43.9,579,572.4,Anzahl
+90,Niederhasli,2014,5.3,6.27,43.9,573,572.4,Anzahl
+90,Niederhasli,2015,6.2,6.27,43.9,572,572.4,Anzahl
+90,Niederhasli,2016,7.5,6.27,43.9,575,572.4,Anzahl
+91,Niederweningen,2010,4.4,3.17,22.2,546,549,Anzahl
+91,Niederweningen,2011,1.8,3.17,22.2,540,549,Anzahl
+91,Niederweningen,2012,4.4,3.17,22.2,537,549,Anzahl
+91,Niederweningen,2013,2.9,3.17,22.2,557,549,Anzahl
+91,Niederweningen,2014,2.8,3.17,22.2,557,549,Anzahl
+91,Niederweningen,2015,2.1,3.17,22.2,552,549,Anzahl
+91,Niederweningen,2016,3.8,3.17,22.2,554,549,Anzahl
+92,Oberglatt,2010,6.8,6.69,46.8,520,523,Anzahl
+92,Oberglatt,2011,4.5,6.69,46.8,518,523,Anzahl
+92,Oberglatt,2012,5.6,6.69,46.8,517,523,Anzahl
+92,Oberglatt,2013,7.3,6.69,46.8,538,523,Anzahl
+92,Oberglatt,2014,7.8,6.69,46.8,524,523,Anzahl
+92,Oberglatt,2015,6.9,6.69,46.8,521,523,Anzahl
+92,Oberglatt,2016,7.9,6.69,46.8,523,523,Anzahl
+93,Oberweningen,2010,1.1,1.86,13,587,591.4,Anzahl
+93,Oberweningen,2011,1.7,1.86,13,564,591.4,Anzahl
+93,Oberweningen,2012,2.9,1.86,13,590,591.4,Anzahl
+93,Oberweningen,2013,1.1,1.86,13,593,591.4,Anzahl
+93,Oberweningen,2014,2.2,1.86,13,602,591.4,Anzahl
+93,Oberweningen,2015,0.6,1.86,13,595,591.4,Anzahl
+93,Oberweningen,2016,3.4,1.86,13,609,591.4,Anzahl
+94,Otelfingen,2010,12.2,9.89,69.2,650,641,Anzahl
+94,Otelfingen,2011,11.9,9.89,69.2,652,641,Anzahl
+94,Otelfingen,2012,9.5,9.89,69.2,648,641,Anzahl
+94,Otelfingen,2013,8.1,9.89,69.2,622,641,Anzahl
+94,Otelfingen,2014,7.5,9.89,69.2,638,641,Anzahl
+94,Otelfingen,2015,10.4,9.89,69.2,638,641,Anzahl
+94,Otelfingen,2016,9.6,9.89,69.2,639,641,Anzahl
+95,Regensberg,2010,8.2,13.46,94.2,586,601.4,Anzahl
+95,Regensberg,2011,6.0,13.46,94.2,557,601.4,Anzahl
+95,Regensberg,2012,6.1,13.46,94.2,574,601.4,Anzahl
+95,Regensberg,2013,14.4,13.46,94.2,604,601.4,Anzahl
+95,Regensberg,2014,12.3,13.46,94.2,666,601.4,Anzahl
+95,Regensberg,2015,34.4,13.46,94.2,599,601.4,Anzahl
+95,Regensberg,2016,12.8,13.46,94.2,624,601.4,Anzahl
+96,Regensdorf,2010,19.4,18.94,132.6,562,579.1,Anzahl
+96,Regensdorf,2011,19.4,18.94,132.6,561,579.1,Anzahl
+96,Regensdorf,2012,19.3,18.94,132.6,576,579.1,Anzahl
+96,Regensdorf,2013,18.9,18.94,132.6,578,579.1,Anzahl
+96,Regensdorf,2014,19.3,18.94,132.6,579,579.1,Anzahl
+96,Regensdorf,2015,19.0,18.94,132.6,597,579.1,Anzahl
+96,Regensdorf,2016,17.3,18.94,132.6,601,579.1,Anzahl
+97,Rümlang,2010,22.5,20.51,143.6,617,613.7,Anzahl
+97,Rümlang,2011,22.0,20.51,143.6,627,613.7,Anzahl
+97,Rümlang,2012,17.7,20.51,143.6,620,613.7,Anzahl
+97,Rümlang,2013,17.6,20.51,143.6,637,613.7,Anzahl
+97,Rümlang,2014,24.1,20.51,143.6,605,613.7,Anzahl
+97,Rümlang,2015,19.6,20.51,143.6,596,613.7,Anzahl
+97,Rümlang,2016,20.1,20.51,143.6,594,613.7,Anzahl
+98,Schleinikon,2010,2.8,3.57,25,618,653.7,Anzahl
+98,Schleinikon,2011,4.2,3.57,25,623,653.7,Anzahl
+98,Schleinikon,2012,1.4,3.57,25,650,653.7,Anzahl
+98,Schleinikon,2013,4.2,3.57,25,663,653.7,Anzahl
+98,Schleinikon,2014,4.1,3.57,25,672,653.7,Anzahl
+98,Schleinikon,2015,4.2,3.57,25,662,653.7,Anzahl
+98,Schleinikon,2016,4.1,3.57,25,688,653.7,Anzahl
+99,Schöfflisdorf,2010,8.9,4.9,34.3,613,632.4,Anzahl
+99,Schöfflisdorf,2011,4.4,4.9,34.3,623,632.4,Anzahl
+99,Schöfflisdorf,2012,2.9,4.9,34.3,624,632.4,Anzahl
+99,Schöfflisdorf,2013,6.6,4.9,34.3,621,632.4,Anzahl
+99,Schöfflisdorf,2014,3.6,4.9,34.3,647,632.4,Anzahl
+99,Schöfflisdorf,2015,5.0,4.9,34.3,649,632.4,Anzahl
+99,Schöfflisdorf,2016,2.9,4.9,34.3,650,632.4,Anzahl
+100,Stadel,2010,3.0,4.03,28.2,631,638.3,Anzahl
+100,Stadel,2011,3.5,4.03,28.2,625,638.3,Anzahl
+100,Stadel,2012,6.0,4.03,28.2,632,638.3,Anzahl
+100,Stadel,2013,4.9,4.03,28.2,637,638.3,Anzahl
+100,Stadel,2014,2.3,4.03,28.2,661,638.3,Anzahl
+100,Stadel,2015,4.5,4.03,28.2,643,638.3,Anzahl
+100,Stadel,2016,4.0,4.03,28.2,639,638.3,Anzahl
+101,Steinmaur,2010,8.2,6.67,46.7,612,621.1,Anzahl
+101,Steinmaur,2011,4.0,6.67,46.7,618,621.1,Anzahl
+101,Steinmaur,2012,7.6,6.67,46.7,629,621.1,Anzahl
+101,Steinmaur,2013,5.7,6.67,46.7,616,621.1,Anzahl
+101,Steinmaur,2014,7.4,6.67,46.7,616,621.1,Anzahl
+101,Steinmaur,2015,7.1,6.67,46.7,624,621.1,Anzahl
+101,Steinmaur,2016,6.7,6.67,46.7,633,621.1,Anzahl
+102,Weiach,2010,11.2,9.8,68.6,676,681.6,Anzahl
+102,Weiach,2011,2.9,9.8,68.6,657,681.6,Anzahl
+102,Weiach,2012,4.6,9.8,68.6,683,681.6,Anzahl
+102,Weiach,2013,14.0,9.8,68.6,647,681.6,Anzahl
+102,Weiach,2014,19.1,9.8,68.6,696,681.6,Anzahl
+102,Weiach,2015,7.3,9.8,68.6,724,681.6,Anzahl
+102,Weiach,2016,9.5,9.8,68.6,688,681.6,Anzahl
+111,Bäretswil,2010,4.6,4.61,32.3,597,604.7,Anzahl
+111,Bäretswil,2011,4.5,4.61,32.3,601,604.7,Anzahl
+111,Bäretswil,2012,5.9,4.61,32.3,605,604.7,Anzahl
+111,Bäretswil,2013,4.9,4.61,32.3,610,604.7,Anzahl
+111,Bäretswil,2014,4.0,4.61,32.3,600,604.7,Anzahl
+111,Bäretswil,2015,4.4,4.61,32.3,599,604.7,Anzahl
+111,Bäretswil,2016,4.0,4.61,32.3,621,604.7,Anzahl
+112,Bubikon,2010,6.1,5.83,40.8,558,576.6,Anzahl
+112,Bubikon,2011,5.3,5.83,40.8,575,576.6,Anzahl
+112,Bubikon,2012,5.8,5.83,40.8,573,576.6,Anzahl
+112,Bubikon,2013,7.4,5.83,40.8,578,576.6,Anzahl
+112,Bubikon,2014,5.4,5.83,40.8,581,576.6,Anzahl
+112,Bubikon,2015,4.8,5.83,40.8,587,576.6,Anzahl
+112,Bubikon,2016,6.0,5.83,40.8,584,576.6,Anzahl
+113,Dürnten,2010,9.9,8.5,59.5,518,538,Anzahl
+113,Dürnten,2011,8.5,8.5,59.5,546,538,Anzahl
+113,Dürnten,2012,7.8,8.5,59.5,540,538,Anzahl
+113,Dürnten,2013,8.1,8.5,59.5,540,538,Anzahl
+113,Dürnten,2014,7.7,8.5,59.5,543,538,Anzahl
+113,Dürnten,2015,9.5,8.5,59.5,537,538,Anzahl
+113,Dürnten,2016,8.0,8.5,59.5,542,538,Anzahl
+114,Fischenthal,2010,6.6,5.36,37.5,561,643,Anzahl
+114,Fischenthal,2011,2.6,5.36,37.5,680,643,Anzahl
+114,Fischenthal,2012,6.9,5.36,37.5,649,643,Anzahl
+114,Fischenthal,2013,3.4,5.36,37.5,618,643,Anzahl
+114,Fischenthal,2014,8.2,5.36,37.5,656,643,Anzahl
+114,Fischenthal,2015,5.8,5.36,37.5,674,643,Anzahl
+114,Fischenthal,2016,4.0,5.36,37.5,663,643,Anzahl
+115,Gossau,2010,7.3,7.39,51.7,569,582.6,Anzahl
+115,Gossau,2011,6.1,7.39,51.7,579,582.6,Anzahl
+115,Gossau,2012,6.9,7.39,51.7,588,582.6,Anzahl
+115,Gossau,2013,8.4,7.39,51.7,582,582.6,Anzahl
+115,Gossau,2014,5.6,7.39,51.7,585,582.6,Anzahl
+115,Gossau,2015,8.5,7.39,51.7,585,582.6,Anzahl
+115,Gossau,2016,8.9,7.39,51.7,590,582.6,Anzahl
+116,Grüningen,2010,6.6,6.83,47.8,635,649.4,Anzahl
+116,Grüningen,2011,5.3,6.83,47.8,631,649.4,Anzahl
+116,Grüningen,2012,7.8,6.83,47.8,656,649.4,Anzahl
+116,Grüningen,2013,6.1,6.83,47.8,652,649.4,Anzahl
+116,Grüningen,2014,8.0,6.83,47.8,655,649.4,Anzahl
+116,Grüningen,2015,6.0,6.83,47.8,657,649.4,Anzahl
+116,Grüningen,2016,8.0,6.83,47.8,660,649.4,Anzahl
+117,Hinwil,2010,15.5,14.93,104.5,595,607,Anzahl
+117,Hinwil,2011,15.2,14.93,104.5,600,607,Anzahl
+117,Hinwil,2012,14.9,14.93,104.5,603,607,Anzahl
+117,Hinwil,2013,14.7,14.93,104.5,608,607,Anzahl
+117,Hinwil,2014,14.4,14.93,104.5,601,607,Anzahl
+117,Hinwil,2015,16.4,14.93,104.5,615,607,Anzahl
+117,Hinwil,2016,13.4,14.93,104.5,627,607,Anzahl
+118,Rüti,2010,5.1,5.83,40.8,496,506.1,Anzahl
+118,Rüti,2011,5.7,5.83,40.8,494,506.1,Anzahl
+118,Rüti,2012,5.4,5.83,40.8,506,506.1,Anzahl
+118,Rüti,2013,5.7,5.83,40.8,508,506.1,Anzahl
+118,Rüti,2014,6.8,5.83,40.8,507,506.1,Anzahl
+118,Rüti,2015,5.4,5.83,40.8,513,506.1,Anzahl
+118,Rüti,2016,6.7,5.83,40.8,519,506.1,Anzahl
+119,Seegräben,2010,14.7,18.76,131.3,538,568.4,Anzahl
+119,Seegräben,2011,18.5,18.76,131.3,548,568.4,Anzahl
+119,Seegräben,2012,16.1,18.76,131.3,559,568.4,Anzahl
+119,Seegräben,2013,21.0,18.76,131.3,562,568.4,Anzahl
+119,Seegräben,2014,15.7,18.76,131.3,588,568.4,Anzahl
+119,Seegräben,2015,19.5,18.76,131.3,587,568.4,Anzahl
+119,Seegräben,2016,25.8,18.76,131.3,597,568.4,Anzahl
+120,Wald,2010,5.8,5.5,38.5,516,524.1,Anzahl
+120,Wald,2011,5.7,5.5,38.5,505,524.1,Anzahl
+120,Wald,2012,6.2,5.5,38.5,517,524.1,Anzahl
+120,Wald,2013,5.2,5.5,38.5,521,524.1,Anzahl
+120,Wald,2014,4.3,5.5,38.5,527,524.1,Anzahl
+120,Wald,2015,5.6,5.5,38.5,537,524.1,Anzahl
+120,Wald,2016,5.7,5.5,38.5,546,524.1,Anzahl
+121,Wetzikon,2010,10.2,8.24,57.7,508,517.6,Anzahl
+121,Wetzikon,2011,8.7,8.24,57.7,509,517.6,Anzahl
+121,Wetzikon,2012,7.9,8.24,57.7,521,517.6,Anzahl
+121,Wetzikon,2013,7.7,8.24,57.7,521,517.6,Anzahl
+121,Wetzikon,2014,7.2,8.24,57.7,518,517.6,Anzahl
+121,Wetzikon,2015,7.8,8.24,57.7,523,517.6,Anzahl
+121,Wetzikon,2016,8.2,8.24,57.7,523,517.6,Anzahl
+131,Adliswil,2010,6.2,6.06,42.4,482,477.4,Anzahl
+131,Adliswil,2011,7.0,6.06,42.4,491,477.4,Anzahl
+131,Adliswil,2012,5.8,6.06,42.4,482,477.4,Anzahl
+131,Adliswil,2013,6.3,6.06,42.4,477,477.4,Anzahl
+131,Adliswil,2014,5.7,6.06,42.4,471,477.4,Anzahl
+131,Adliswil,2015,5.4,6.06,42.4,469,477.4,Anzahl
+131,Adliswil,2016,6.0,6.06,42.4,470,477.4,Anzahl
+132,Hirzel,2010,16.6,16.53,115.7,560,580.1,Anzahl
+132,Hirzel,2011,10.9,16.53,115.7,560,580.1,Anzahl
+132,Hirzel,2012,23.0,16.53,115.7,576,580.1,Anzahl
+132,Hirzel,2013,16.8,16.53,115.7,578,580.1,Anzahl
+132,Hirzel,2014,14.1,16.53,115.7,591,580.1,Anzahl
+132,Hirzel,2015,16.8,16.53,115.7,596,580.1,Anzahl
+132,Hirzel,2016,17.5,16.53,115.7,600,580.1,Anzahl
+133,Horgen,2010,10.6,8.86,62,505,507.4,Anzahl
+133,Horgen,2011,8.5,8.86,62,500,507.4,Anzahl
+133,Horgen,2012,8.6,8.86,62,507,507.4,Anzahl
+133,Horgen,2013,8.8,8.86,62,509,507.4,Anzahl
+133,Horgen,2014,8.4,8.86,62,515,507.4,Anzahl
+133,Horgen,2015,8.0,8.86,62,506,507.4,Anzahl
+133,Horgen,2016,9.1,8.86,62,510,507.4,Anzahl
+134,Hütten,2010,3.4,6.03,42.2,552,576.1,Anzahl
+134,Hütten,2011,5.5,6.03,42.2,607,576.1,Anzahl
+134,Hütten,2012,11.1,6.03,42.2,574,576.1,Anzahl
+134,Hütten,2013,6.6,6.03,42.2,582,576.1,Anzahl
+134,Hütten,2014,6.6,6.03,42.2,569,576.1,Anzahl
+134,Hütten,2015,4.5,6.03,42.2,572,576.1,Anzahl
+134,Hütten,2016,4.5,6.03,42.2,577,576.1,Anzahl
+135,Kilchberg,2010,8.3,6.77,47.4,541,546.4,Anzahl
+135,Kilchberg,2011,6.9,6.77,47.4,539,546.4,Anzahl
+135,Kilchberg,2012,7.2,6.77,47.4,548,546.4,Anzahl
+135,Kilchberg,2013,6.2,6.77,47.4,550,546.4,Anzahl
+135,Kilchberg,2014,4.7,6.77,47.4,549,546.4,Anzahl
+135,Kilchberg,2015,6.4,6.77,47.4,550,546.4,Anzahl
+135,Kilchberg,2016,7.7,6.77,47.4,548,546.4,Anzahl
+136,Langnau a.A.,2010,5.8,6,42,506,512.7,Anzahl
+136,Langnau a.A.,2011,7.4,6,42,501,512.7,Anzahl
+136,Langnau a.A.,2012,6.0,6,42,517,512.7,Anzahl
+136,Langnau a.A.,2013,5.2,6,42,523,512.7,Anzahl
+136,Langnau a.A.,2014,7.0,6,42,515,512.7,Anzahl
+136,Langnau a.A.,2015,5.5,6,42,515,512.7,Anzahl
+136,Langnau a.A.,2016,5.1,6,42,512,512.7,Anzahl
+137,Oberrieden,2010,7.3,6.6,46.2,505,506.7,Anzahl
+137,Oberrieden,2011,6.0,6.6,46.2,499,506.7,Anzahl
+137,Oberrieden,2012,6.2,6.6,46.2,508,506.7,Anzahl
+137,Oberrieden,2013,7.7,6.6,46.2,498,506.7,Anzahl
+137,Oberrieden,2014,7.0,6.6,46.2,506,506.7,Anzahl
+137,Oberrieden,2015,6.2,6.6,46.2,518,506.7,Anzahl
+137,Oberrieden,2016,5.8,6.6,46.2,513,506.7,Anzahl
+138,Richterswil,2010,5.8,6.54,45.8,504,516.6,Anzahl
+138,Richterswil,2011,7.9,6.54,45.8,508,516.6,Anzahl
+138,Richterswil,2012,6.5,6.54,45.8,516,516.6,Anzahl
+138,Richterswil,2013,7.7,6.54,45.8,519,516.6,Anzahl
+138,Richterswil,2014,6.5,6.54,45.8,516,516.6,Anzahl
+138,Richterswil,2015,5.5,6.54,45.8,527,516.6,Anzahl
+138,Richterswil,2016,5.9,6.54,45.8,526,516.6,Anzahl
+139,Rüschlikon,2010,12.4,10.71,75,559,563.6,Anzahl
+139,Rüschlikon,2011,11.0,10.71,75,573,563.6,Anzahl
+139,Rüschlikon,2012,10.7,10.71,75,566,563.6,Anzahl
+139,Rüschlikon,2013,9.0,10.71,75,564,563.6,Anzahl
+139,Rüschlikon,2014,9.9,10.71,75,562,563.6,Anzahl
+139,Rüschlikon,2015,11.5,10.71,75,565,563.6,Anzahl
+139,Rüschlikon,2016,10.5,10.71,75,556,563.6,Anzahl
+140,Schönenberg,2010,2.6,5.07,35.5,587,620.1,Anzahl
+140,Schönenberg,2011,5.8,5.07,35.5,603,620.1,Anzahl
+140,Schönenberg,2012,5.8,5.07,35.5,619,620.1,Anzahl
+140,Schönenberg,2013,7.4,5.07,35.5,628,620.1,Anzahl
+140,Schönenberg,2014,2.1,5.07,35.5,631,620.1,Anzahl
+140,Schönenberg,2015,4.8,5.07,35.5,634,620.1,Anzahl
+140,Schönenberg,2016,7.0,5.07,35.5,639,620.1,Anzahl
+141,Thalwil,2010,6.4,5.89,41.2,493,488.7,Anzahl
+141,Thalwil,2011,5.2,5.89,41.2,490,488.7,Anzahl
+141,Thalwil,2012,6.0,5.89,41.2,496,488.7,Anzahl
+141,Thalwil,2013,6.1,5.89,41.2,495,488.7,Anzahl
+141,Thalwil,2014,6.3,5.89,41.2,486,488.7,Anzahl
+141,Thalwil,2015,4.8,5.89,41.2,484,488.7,Anzahl
+141,Thalwil,2016,6.4,5.89,41.2,477,488.7,Anzahl
+142,Wädenswil,2010,9.9,10.03,70.2,480,492.7,Anzahl
+142,Wädenswil,2011,11.4,10.03,70.2,486,492.7,Anzahl
+142,Wädenswil,2012,10.9,10.03,70.2,492,492.7,Anzahl
+142,Wädenswil,2013,9.9,10.03,70.2,498,492.7,Anzahl
+142,Wädenswil,2014,11.0,10.03,70.2,500,492.7,Anzahl
+142,Wädenswil,2015,8.9,10.03,70.2,499,492.7,Anzahl
+142,Wädenswil,2016,8.2,10.03,70.2,494,492.7,Anzahl
+151,Erlenbach,2010,5.5,5.83,40.8,585,588.7,Anzahl
+151,Erlenbach,2011,5.7,5.83,40.8,577,588.7,Anzahl
+151,Erlenbach,2012,6.2,5.83,40.8,592,588.7,Anzahl
+151,Erlenbach,2013,5.1,5.83,40.8,583,588.7,Anzahl
+151,Erlenbach,2014,6.4,5.83,40.8,595,588.7,Anzahl
+151,Erlenbach,2015,5.7,5.83,40.8,595,588.7,Anzahl
+151,Erlenbach,2016,6.2,5.83,40.8,594,588.7,Anzahl
+152,Herrliberg,2010,5.6,4.99,34.9,587,596,Anzahl
+152,Herrliberg,2011,4.4,4.99,34.9,586,596,Anzahl
+152,Herrliberg,2012,6.9,4.99,34.9,599,596,Anzahl
+152,Herrliberg,2013,3.9,4.99,34.9,598,596,Anzahl
+152,Herrliberg,2014,4.5,4.99,34.9,599,596,Anzahl
+152,Herrliberg,2015,4.0,4.99,34.9,601,596,Anzahl
+152,Herrliberg,2016,5.6,4.99,34.9,602,596,Anzahl
+153,Hombrechtikon,2010,6.1,5.39,37.7,548,557,Anzahl
+153,Hombrechtikon,2011,5.1,5.39,37.7,546,557,Anzahl
+153,Hombrechtikon,2012,5.7,5.39,37.7,553,557,Anzahl
+153,Hombrechtikon,2013,5.7,5.39,37.7,554,557,Anzahl
+153,Hombrechtikon,2014,5.9,5.39,37.7,565,557,Anzahl
+153,Hombrechtikon,2015,4.1,5.39,37.7,560,557,Anzahl
+153,Hombrechtikon,2016,5.1,5.39,37.7,573,557,Anzahl
+154,Küsnacht,2010,6.9,7.5,52.5,565,550.7,Anzahl
+154,Küsnacht,2011,7.4,7.5,52.5,562,550.7,Anzahl
+154,Küsnacht,2012,9.3,7.5,52.5,572,550.7,Anzahl
+154,Küsnacht,2013,7.4,7.5,52.5,570,550.7,Anzahl
+154,Küsnacht,2014,6.7,7.5,52.5,532,550.7,Anzahl
+154,Küsnacht,2015,8.9,7.5,52.5,525,550.7,Anzahl
+154,Küsnacht,2016,5.9,7.5,52.5,529,550.7,Anzahl
+155,Männedorf,2010,3.7,4,28,485,485.9,Anzahl
+155,Männedorf,2011,5.5,4,28,478,485.9,Anzahl
+155,Männedorf,2012,5.1,4,28,482,485.9,Anzahl
+155,Männedorf,2013,4.2,4,28,487,485.9,Anzahl
+155,Männedorf,2014,3.5,4,28,488,485.9,Anzahl
+155,Männedorf,2015,2.7,4,28,487,485.9,Anzahl
+155,Männedorf,2016,3.3,4,28,494,485.9,Anzahl
+156,Meilen,2010,6.1,6.47,45.3,550,546.6,Anzahl
+156,Meilen,2011,7.7,6.47,45.3,545,546.6,Anzahl
+156,Meilen,2012,8.3,6.47,45.3,546,546.6,Anzahl
+156,Meilen,2013,6.7,6.47,45.3,551,546.6,Anzahl
+156,Meilen,2014,6.4,6.47,45.3,545,546.6,Anzahl
+156,Meilen,2015,5.8,6.47,45.3,549,546.6,Anzahl
+156,Meilen,2016,4.3,6.47,45.3,540,546.6,Anzahl
+157,Oetwil a.S.,2010,6.6,7.34,51.4,575,587.4,Anzahl
+157,Oetwil a.S.,2011,7.8,7.34,51.4,585,587.4,Anzahl
+157,Oetwil a.S.,2012,9.5,7.34,51.4,590,587.4,Anzahl
+157,Oetwil a.S.,2013,2.4,7.34,51.4,589,587.4,Anzahl
+157,Oetwil a.S.,2014,8.5,7.34,51.4,590,587.4,Anzahl
+157,Oetwil a.S.,2015,9.4,7.34,51.4,588,587.4,Anzahl
+157,Oetwil a.S.,2016,7.2,7.34,51.4,595,587.4,Anzahl
+158,Stäfa,2010,5.0,4.86,34,518,522.9,Anzahl
+158,Stäfa,2011,5.6,4.86,34,516,522.9,Anzahl
+158,Stäfa,2012,5.2,4.86,34,525,522.9,Anzahl
+158,Stäfa,2013,4.1,4.86,34,527,522.9,Anzahl
+158,Stäfa,2014,4.9,4.86,34,519,522.9,Anzahl
+158,Stäfa,2015,4.4,4.86,34,529,522.9,Anzahl
+158,Stäfa,2016,4.8,4.86,34,526,522.9,Anzahl
+159,Uetikon a.S.,2010,3.3,3.19,22.3,512,532.4,Anzahl
+159,Uetikon a.S.,2011,2.6,3.19,22.3,519,532.4,Anzahl
+159,Uetikon a.S.,2012,4.6,3.19,22.3,535,532.4,Anzahl
+159,Uetikon a.S.,2013,2.7,3.19,22.3,536,532.4,Anzahl
+159,Uetikon a.S.,2014,2.9,3.19,22.3,545,532.4,Anzahl
+159,Uetikon a.S.,2015,2.7,3.19,22.3,540,532.4,Anzahl
+159,Uetikon a.S.,2016,3.5,3.19,22.3,540,532.4,Anzahl
+160,Zumikon,2010,5.9,4.97,34.8,578,572.6,Anzahl
+160,Zumikon,2011,4.7,4.97,34.8,579,572.6,Anzahl
+160,Zumikon,2012,3.9,4.97,34.8,579,572.6,Anzahl
+160,Zumikon,2013,6.0,4.97,34.8,575,572.6,Anzahl
+160,Zumikon,2014,3.3,4.97,34.8,570,572.6,Anzahl
+160,Zumikon,2015,4.8,4.97,34.8,570,572.6,Anzahl
+160,Zumikon,2016,6.2,4.97,34.8,557,572.6,Anzahl
+161,Zollikon,2010,6.3,6.56,45.9,539,535.7,Anzahl
+161,Zollikon,2011,6.8,6.56,45.9,536,535.7,Anzahl
+161,Zollikon,2012,7.0,6.56,45.9,542,535.7,Anzahl
+161,Zollikon,2013,8.4,6.56,45.9,544,535.7,Anzahl
+161,Zollikon,2014,5.3,6.56,45.9,538,535.7,Anzahl
+161,Zollikon,2015,5.7,6.56,45.9,530,535.7,Anzahl
+161,Zollikon,2016,6.4,6.56,45.9,521,535.7,Anzahl
+171,Bauma (bis 2014),2010,6.7,7.22,36.1,563,583.2,Anzahl
+171,Bauma (bis 2014),2011,5.2,7.22,36.1,572,583.2,Anzahl
+171,Bauma (bis 2014),2012,7.1,7.22,36.1,586,583.2,Anzahl
+171,Bauma (bis 2014),2013,8.4,7.22,36.1,592,583.2,Anzahl
+171,Bauma (bis 2014),2014,8.7,7.22,36.1,603,583.2,Anzahl
+172,Fehraltorf,2010,7.1,6.29,44,572,581.6,Anzahl
+172,Fehraltorf,2011,5.9,6.29,44,562,581.6,Anzahl
+172,Fehraltorf,2012,5.0,6.29,44,595,581.6,Anzahl
+172,Fehraltorf,2013,8.5,6.29,44,587,581.6,Anzahl
+172,Fehraltorf,2014,4.6,6.29,44,582,581.6,Anzahl
+172,Fehraltorf,2015,6.4,6.29,44,585,581.6,Anzahl
+172,Fehraltorf,2016,6.5,6.29,44,588,581.6,Anzahl
+173,Hittnau,2010,7.8,5.66,39.6,579,608.4,Anzahl
+173,Hittnau,2011,4.6,5.66,39.6,592,608.4,Anzahl
+173,Hittnau,2012,6.8,5.66,39.6,608,608.4,Anzahl
+173,Hittnau,2013,7.9,5.66,39.6,620,608.4,Anzahl
+173,Hittnau,2014,4.4,5.66,39.6,622,608.4,Anzahl
+173,Hittnau,2015,3.6,5.66,39.6,619,608.4,Anzahl
+173,Hittnau,2016,4.5,5.66,39.6,619,608.4,Anzahl
+174,Illnau-Effretikon (bis 2015),2010,11.6,9.07,54.4,501,506,Anzahl
+174,Illnau-Effretikon (bis 2015),2011,7.5,9.07,54.4,505,506,Anzahl
+174,Illnau-Effretikon (bis 2015),2012,10.5,9.07,54.4,512,506,Anzahl
+174,Illnau-Effretikon (bis 2015),2013,8.2,9.07,54.4,509,506,Anzahl
+174,Illnau-Effretikon (bis 2015),2014,8.3,9.07,54.4,505,506,Anzahl
+174,Illnau-Effretikon (bis 2015),2015,8.3,9.07,54.4,504,506,Anzahl
+175,Kyburg (bis 2015),2010,21.5,13.32,79.9,587,557,Anzahl
+175,Kyburg (bis 2015),2011,11.7,13.32,79.9,597,557,Anzahl
+175,Kyburg (bis 2015),2012,24.6,13.32,79.9,581,557,Anzahl
+175,Kyburg (bis 2015),2013,12.3,13.32,79.9,594,557,Anzahl
+175,Kyburg (bis 2015),2014,4.9,13.32,79.9,484,557,Anzahl
+175,Kyburg (bis 2015),2015,4.9,13.32,79.9,499,557,Anzahl
+176,Lindau,2010,25.2,21.06,147.4,578,597.6,Anzahl
+176,Lindau,2011,18.1,21.06,147.4,580,597.6,Anzahl
+176,Lindau,2012,21.9,21.06,147.4,599,597.6,Anzahl
+176,Lindau,2013,23.4,21.06,147.4,602,597.6,Anzahl
+176,Lindau,2014,20.4,21.06,147.4,602,597.6,Anzahl
+176,Lindau,2015,18.8,21.06,147.4,610,597.6,Anzahl
+176,Lindau,2016,19.6,21.06,147.4,612,597.6,Anzahl
+177,Pfäffikon,2010,7.1,8.19,57.3,522,532.9,Anzahl
+177,Pfäffikon,2011,9.5,8.19,57.3,523,532.9,Anzahl
+177,Pfäffikon,2012,7.7,8.19,57.3,534,532.9,Anzahl
+177,Pfäffikon,2013,7.4,8.19,57.3,535,532.9,Anzahl
+177,Pfäffikon,2014,9.0,8.19,57.3,535,532.9,Anzahl
+177,Pfäffikon,2015,8.8,8.19,57.3,539,532.9,Anzahl
+177,Pfäffikon,2016,7.8,8.19,57.3,542,532.9,Anzahl
+178,Russikon,2010,4.9,3.89,27.2,626,621.1,Anzahl
+178,Russikon,2011,6.3,3.89,27.2,621,621.1,Anzahl
+178,Russikon,2012,3.1,3.89,27.2,619,621.1,Anzahl
+178,Russikon,2013,2.4,3.89,27.2,621,621.1,Anzahl
+178,Russikon,2014,3.3,3.89,27.2,613,621.1,Anzahl
+178,Russikon,2015,3.7,3.89,27.2,627,621.1,Anzahl
+178,Russikon,2016,3.5,3.89,27.2,621,621.1,Anzahl
+179,Sternenberg (bis 2014),2010,5.5,7.36,36.8,607,615.2,Anzahl
+179,Sternenberg (bis 2014),2011,5.7,7.36,36.8,575,615.2,Anzahl
+179,Sternenberg (bis 2014),2012,17.1,7.36,36.8,604,615.2,Anzahl
+179,Sternenberg (bis 2014),2013,2.8,7.36,36.8,610,615.2,Anzahl
+179,Sternenberg (bis 2014),2014,5.7,7.36,36.8,680,615.2,Anzahl
+180,Weisslingen,2010,7.1,6.06,42.4,604,607.3,Anzahl
+180,Weisslingen,2011,5.9,6.06,42.4,590,607.3,Anzahl
+180,Weisslingen,2012,6.3,6.06,42.4,608,607.3,Anzahl
+180,Weisslingen,2013,5.3,6.06,42.4,614,607.3,Anzahl
+180,Weisslingen,2014,4.9,6.06,42.4,604,607.3,Anzahl
+180,Weisslingen,2015,8.0,6.06,42.4,609,607.3,Anzahl
+180,Weisslingen,2016,4.9,6.06,42.4,622,607.3,Anzahl
+181,Wila,2010,7.2,6.76,47.3,640,689.9,Anzahl
+181,Wila,2011,8.4,6.76,47.3,648,689.9,Anzahl
+181,Wila,2012,6.2,6.76,47.3,687,689.9,Anzahl
+181,Wila,2013,6.3,6.76,47.3,670,689.9,Anzahl
+181,Wila,2014,7.3,6.76,47.3,731,689.9,Anzahl
+181,Wila,2015,6.7,6.76,47.3,732,689.9,Anzahl
+181,Wila,2016,5.2,6.76,47.3,721,689.9,Anzahl
+182,Wildberg,2010,9.3,6.36,44.5,545,524.3,Anzahl
+182,Wildberg,2011,6.1,6.36,44.5,531,524.3,Anzahl
+182,Wildberg,2012,8.0,6.36,44.5,534,524.3,Anzahl
+182,Wildberg,2013,2.0,6.36,44.5,520,524.3,Anzahl
+182,Wildberg,2014,7.1,6.36,44.5,510,524.3,Anzahl
+182,Wildberg,2015,8.9,6.36,44.5,494,524.3,Anzahl
+182,Wildberg,2016,3.1,6.36,44.5,536,524.3,Anzahl
+191,Dübendorf,2010,9.4,8.83,61.8,530,526.4,Anzahl
+191,Dübendorf,2011,9.8,8.83,61.8,524,526.4,Anzahl
+191,Dübendorf,2012,9.2,8.83,61.8,531,526.4,Anzahl
+191,Dübendorf,2013,7.9,8.83,61.8,535,526.4,Anzahl
+191,Dübendorf,2014,7.2,8.83,61.8,525,526.4,Anzahl
+191,Dübendorf,2015,8.9,8.83,61.8,522,526.4,Anzahl
+191,Dübendorf,2016,9.4,8.83,61.8,518,526.4,Anzahl
+192,Egg,2010,8.0,8.41,58.9,557,567.1,Anzahl
+192,Egg,2011,7.5,8.41,58.9,563,567.1,Anzahl
+192,Egg,2012,8.9,8.41,58.9,565,567.1,Anzahl
+192,Egg,2013,6.4,8.41,58.9,565,567.1,Anzahl
+192,Egg,2014,9.2,8.41,58.9,568,567.1,Anzahl
+192,Egg,2015,9.8,8.41,58.9,570,567.1,Anzahl
+192,Egg,2016,9.1,8.41,58.9,582,567.1,Anzahl
+193,Fällanden,2010,5.9,5.94,41.6,557,549.9,Anzahl
+193,Fällanden,2011,6.1,5.94,41.6,549,549.9,Anzahl
+193,Fällanden,2012,5.1,5.94,41.6,546,549.9,Anzahl
+193,Fällanden,2013,5.2,5.94,41.6,550,549.9,Anzahl
+193,Fällanden,2014,6.0,5.94,41.6,547,549.9,Anzahl
+193,Fällanden,2015,6.5,5.94,41.6,553,549.9,Anzahl
+193,Fällanden,2016,6.8,5.94,41.6,547,549.9,Anzahl
+194,Greifensee,2010,2.4,3.23,22.6,469,460.4,Anzahl
+194,Greifensee,2011,2.5,3.23,22.6,461,460.4,Anzahl
+194,Greifensee,2012,2.3,3.23,22.6,464,460.4,Anzahl
+194,Greifensee,2013,4.9,3.23,22.6,465,460.4,Anzahl
+194,Greifensee,2014,4.5,3.23,22.6,457,460.4,Anzahl
+194,Greifensee,2015,3.0,3.23,22.6,457,460.4,Anzahl
+194,Greifensee,2016,3.0,3.23,22.6,450,460.4,Anzahl
+195,Maur,2010,10.1,6.93,48.5,593,615.4,Anzahl
+195,Maur,2011,5.7,6.93,48.5,589,615.4,Anzahl
+195,Maur,2012,6.5,6.93,48.5,596,615.4,Anzahl
+195,Maur,2013,7.9,6.93,48.5,598,615.4,Anzahl
+195,Maur,2014,6.0,6.93,48.5,640,615.4,Anzahl
+195,Maur,2015,6.3,6.93,48.5,648,615.4,Anzahl
+195,Maur,2016,6.0,6.93,48.5,644,615.4,Anzahl
+196,Mönchaltorf,2010,4.3,5.43,38,567,566.9,Anzahl
+196,Mönchaltorf,2011,7.0,5.43,38,567,566.9,Anzahl
+196,Mönchaltorf,2012,4.9,5.43,38,579,566.9,Anzahl
+196,Mönchaltorf,2013,3.5,5.43,38,573,566.9,Anzahl
+196,Mönchaltorf,2014,4.7,5.43,38,570,566.9,Anzahl
+196,Mönchaltorf,2015,6.3,5.43,38,557,566.9,Anzahl
+196,Mönchaltorf,2016,7.3,5.43,38,555,566.9,Anzahl
+197,Schwerzenbach,2010,7.2,5.23,36.6,521,524.7,Anzahl
+197,Schwerzenbach,2011,5.7,5.23,36.6,533,524.7,Anzahl
+197,Schwerzenbach,2012,6.5,5.23,36.6,541,524.7,Anzahl
+197,Schwerzenbach,2013,5.7,5.23,36.6,533,524.7,Anzahl
+197,Schwerzenbach,2014,3.4,5.23,36.6,523,524.7,Anzahl
+197,Schwerzenbach,2015,3.2,5.23,36.6,515,524.7,Anzahl
+197,Schwerzenbach,2016,4.9,5.23,36.6,507,524.7,Anzahl
+198,Uster,2010,8.8,8.21,57.5,480,477.7,Anzahl
+198,Uster,2011,8.5,8.21,57.5,476,477.7,Anzahl
+198,Uster,2012,7.8,8.21,57.5,480,477.7,Anzahl
+198,Uster,2013,7.4,8.21,57.5,479,477.7,Anzahl
+198,Uster,2014,7.8,8.21,57.5,476,477.7,Anzahl
+198,Uster,2015,8.4,8.21,57.5,477,477.7,Anzahl
+198,Uster,2016,8.8,8.21,57.5,476,477.7,Anzahl
+199,Volketswil,2010,12.5,9.79,68.5,591,593,Anzahl
+199,Volketswil,2011,10.8,9.79,68.5,585,593,Anzahl
+199,Volketswil,2012,11.3,9.79,68.5,595,593,Anzahl
+199,Volketswil,2013,9.6,9.79,68.5,600,593,Anzahl
+199,Volketswil,2014,8.5,9.79,68.5,597,593,Anzahl
+199,Volketswil,2015,7.2,9.79,68.5,591,593,Anzahl
+199,Volketswil,2016,8.6,9.79,68.5,592,593,Anzahl
+200,Wangen-Brüttisellen,2010,19.4,20.53,143.7,604,623.4,Anzahl
+200,Wangen-Brüttisellen,2011,22.0,20.53,143.7,600,623.4,Anzahl
+200,Wangen-Brüttisellen,2012,23.2,20.53,143.7,630,623.4,Anzahl
+200,Wangen-Brüttisellen,2013,21.1,20.53,143.7,631,623.4,Anzahl
+200,Wangen-Brüttisellen,2014,19.8,20.53,143.7,636,623.4,Anzahl
+200,Wangen-Brüttisellen,2015,18.5,20.53,143.7,636,623.4,Anzahl
+200,Wangen-Brüttisellen,2016,19.7,20.53,143.7,627,623.4,Anzahl
+211,Altikon,2010,5.0,3.41,23.9,599,630,Anzahl
+211,Altikon,2011,4.8,3.41,23.9,626,630,Anzahl
+211,Altikon,2012,4.9,3.41,23.9,630,630,Anzahl
+211,Altikon,2013,3.1,3.41,23.9,644,630,Anzahl
+211,Altikon,2014,1.5,3.41,23.9,644,630,Anzahl
+211,Altikon,2015,4.6,3.41,23.9,632,630,Anzahl
+211,Altikon,2016,0.0,3.41,23.9,635,630,Anzahl
+213,Brütten,2010,5.7,5.31,37.2,628,629.6,Anzahl
+213,Brütten,2011,6.2,5.31,37.2,625,629.6,Anzahl
+213,Brütten,2012,3.5,5.31,37.2,644,629.6,Anzahl
+213,Brütten,2013,2.5,5.31,37.2,630,629.6,Anzahl
+213,Brütten,2014,4.9,5.31,37.2,630,629.6,Anzahl
+213,Brütten,2015,6.5,5.31,37.2,621,629.6,Anzahl
+213,Brütten,2016,7.9,5.31,37.2,629,629.6,Anzahl
+214,Dägerlen,2010,6.0,6.91,48.4,539,564.4,Anzahl
+214,Dägerlen,2011,9.1,6.91,48.4,526,564.4,Anzahl
+214,Dägerlen,2012,7.1,6.91,48.4,546,564.4,Anzahl
+214,Dägerlen,2013,6.1,6.91,48.4,561,564.4,Anzahl
+214,Dägerlen,2014,4.1,6.91,48.4,574,564.4,Anzahl
+214,Dägerlen,2015,3.9,6.91,48.4,606,564.4,Anzahl
+214,Dägerlen,2016,12.1,6.91,48.4,599,564.4,Anzahl
+215,Dättlikon,2010,2.7,3.01,21.1,595,612,Anzahl
+215,Dättlikon,2011,2.7,3.01,21.1,606,612,Anzahl
+215,Dättlikon,2012,0.0,3.01,21.1,609,612,Anzahl
+215,Dättlikon,2013,4.0,3.01,21.1,611,612,Anzahl
+215,Dättlikon,2014,3.9,3.01,21.1,607,612,Anzahl
+215,Dättlikon,2015,4.0,3.01,21.1,614,612,Anzahl
+215,Dättlikon,2016,3.8,3.01,21.1,642,612,Anzahl
+216,Dinhard,2010,3.6,3.01,21.1,583,597.1,Anzahl
+216,Dinhard,2011,1.4,3.01,21.1,594,597.1,Anzahl
+216,Dinhard,2012,2.8,3.01,21.1,592,597.1,Anzahl
+216,Dinhard,2013,3.3,3.01,21.1,596,597.1,Anzahl
+216,Dinhard,2014,4.7,3.01,21.1,587,597.1,Anzahl
+216,Dinhard,2015,2.7,3.01,21.1,605,597.1,Anzahl
+216,Dinhard,2016,2.6,3.01,21.1,623,597.1,Anzahl
+217,Elgg,2010,6.6,6.59,46.1,543,540.6,Anzahl
+217,Elgg,2011,7.7,6.59,46.1,552,540.6,Anzahl
+217,Elgg,2012,6.7,6.59,46.1,547,540.6,Anzahl
+217,Elgg,2013,8.5,6.59,46.1,554,540.6,Anzahl
+217,Elgg,2014,3.9,6.59,46.1,532,540.6,Anzahl
+217,Elgg,2015,5.5,6.59,46.1,528,540.6,Anzahl
+217,Elgg,2016,7.2,6.59,46.1,528,540.6,Anzahl
+218,Ellikon a.d.Th.,2010,4.5,4.63,32.4,662,674.3,Anzahl
+218,Ellikon a.d.Th.,2011,4.5,4.63,32.4,656,674.3,Anzahl
+218,Ellikon a.d.Th.,2012,4.4,4.63,32.4,686,674.3,Anzahl
+218,Ellikon a.d.Th.,2013,5.5,4.63,32.4,681,674.3,Anzahl
+218,Ellikon a.d.Th.,2014,5.5,4.63,32.4,690,674.3,Anzahl
+218,Ellikon a.d.Th.,2015,2.3,4.63,32.4,677,674.3,Anzahl
+218,Ellikon a.d.Th.,2016,5.7,4.63,32.4,668,674.3,Anzahl
+219,Elsau,2010,7.5,5.43,38,551,554,Anzahl
+219,Elsau,2011,6.0,5.43,38,548,554,Anzahl
+219,Elsau,2012,6.9,5.43,38,554,554,Anzahl
+219,Elsau,2013,3.2,5.43,38,564,554,Anzahl
+219,Elsau,2014,3.8,5.43,38,554,554,Anzahl
+219,Elsau,2015,5.5,5.43,38,551,554,Anzahl
+219,Elsau,2016,5.1,5.43,38,556,554,Anzahl
+220,Hagenbuch,2010,18.2,16.53,115.7,662,650.4,Anzahl
+220,Hagenbuch,2011,22.0,16.53,115.7,686,650.4,Anzahl
+220,Hagenbuch,2012,10.9,16.53,115.7,642,650.4,Anzahl
+220,Hagenbuch,2013,12.9,16.53,115.7,636,650.4,Anzahl
+220,Hagenbuch,2014,15.3,16.53,115.7,657,650.4,Anzahl
+220,Hagenbuch,2015,16.3,16.53,115.7,638,650.4,Anzahl
+220,Hagenbuch,2016,20.1,16.53,115.7,632,650.4,Anzahl
+221,Hettlingen,2010,2.4,2.73,19.1,498,509.7,Anzahl
+221,Hettlingen,2011,2.0,2.73,19.1,502,509.7,Anzahl
+221,Hettlingen,2012,3.3,2.73,19.1,507,509.7,Anzahl
+221,Hettlingen,2013,4.7,2.73,19.1,519,509.7,Anzahl
+221,Hettlingen,2014,2.6,2.73,19.1,513,509.7,Anzahl
+221,Hettlingen,2015,1.6,2.73,19.1,516,509.7,Anzahl
+221,Hettlingen,2016,2.5,2.73,19.1,513,509.7,Anzahl
+222,Hofstetten,2010,6.7,5.7,39.9,616,652.1,Anzahl
+222,Hofstetten,2011,6.4,5.7,39.9,629,652.1,Anzahl
+222,Hofstetten,2012,6.2,5.7,39.9,606,652.1,Anzahl
+222,Hofstetten,2013,8.3,5.7,39.9,628,652.1,Anzahl
+222,Hofstetten,2014,4.1,5.7,39.9,703,652.1,Anzahl
+222,Hofstetten,2015,4.2,5.7,39.9,680,652.1,Anzahl
+222,Hofstetten,2016,4.0,5.7,39.9,703,652.1,Anzahl
+223,Neftenbach,2010,9.2,9.04,63.3,588,592.6,Anzahl
+223,Neftenbach,2011,9.0,9.04,63.3,583,592.6,Anzahl
+223,Neftenbach,2012,9.6,9.04,63.3,598,592.6,Anzahl
+223,Neftenbach,2013,7.2,9.04,63.3,594,592.6,Anzahl
+223,Neftenbach,2014,9.3,9.04,63.3,597,592.6,Anzahl
+223,Neftenbach,2015,8.9,9.04,63.3,592,592.6,Anzahl
+223,Neftenbach,2016,10.1,9.04,63.3,596,592.6,Anzahl
+224,Pfungen,2010,6.4,6.57,46,596,583,Anzahl
+224,Pfungen,2011,6.6,6.57,46,594,583,Anzahl
+224,Pfungen,2012,7.4,6.57,46,588,583,Anzahl
+224,Pfungen,2013,6.2,6.57,46,589,583,Anzahl
+224,Pfungen,2014,6.6,6.57,46,575,583,Anzahl
+224,Pfungen,2015,4.0,6.57,46,569,583,Anzahl
+224,Pfungen,2016,8.8,6.57,46,570,583,Anzahl
+225,Rickenbach,2010,4.4,3.47,24.3,551,538.7,Anzahl
+225,Rickenbach,2011,2.0,3.47,24.3,541,538.7,Anzahl
+225,Rickenbach,2012,5.1,3.47,24.3,552,538.7,Anzahl
+225,Rickenbach,2013,3.2,3.47,24.3,550,538.7,Anzahl
+225,Rickenbach,2014,2.7,3.47,24.3,524,538.7,Anzahl
+225,Rickenbach,2015,3.5,3.47,24.3,527,538.7,Anzahl
+225,Rickenbach,2016,3.4,3.47,24.3,526,538.7,Anzahl
+226,Schlatt,2010,6.8,9.09,63.6,578,577.6,Anzahl
+226,Schlatt,2011,9.5,9.09,63.6,576,577.6,Anzahl
+226,Schlatt,2012,10.8,9.09,63.6,581,577.6,Anzahl
+226,Schlatt,2013,5.5,9.09,63.6,579,577.6,Anzahl
+226,Schlatt,2014,13.3,9.09,63.6,591,577.6,Anzahl
+226,Schlatt,2015,10.9,9.09,63.6,564,577.6,Anzahl
+226,Schlatt,2016,6.8,9.09,63.6,574,577.6,Anzahl
+227,Seuzach,2010,20.1,13.17,92.2,588,593.3,Anzahl
+227,Seuzach,2011,11.9,13.17,92.2,582,593.3,Anzahl
+227,Seuzach,2012,9.7,13.17,92.2,597,593.3,Anzahl
+227,Seuzach,2013,12.2,13.17,92.2,597,593.3,Anzahl
+227,Seuzach,2014,12.9,13.17,92.2,598,593.3,Anzahl
+227,Seuzach,2015,13.1,13.17,92.2,593,593.3,Anzahl
+227,Seuzach,2016,12.3,13.17,92.2,598,593.3,Anzahl
+228,Turbenthal,2010,7.9,7.21,50.5,547,553.3,Anzahl
+228,Turbenthal,2011,8.0,7.21,50.5,548,553.3,Anzahl
+228,Turbenthal,2012,7.4,7.21,50.5,559,553.3,Anzahl
+228,Turbenthal,2013,6.5,7.21,50.5,564,553.3,Anzahl
+228,Turbenthal,2014,5.6,7.21,50.5,548,553.3,Anzahl
+228,Turbenthal,2015,7.2,7.21,50.5,550,553.3,Anzahl
+228,Turbenthal,2016,7.9,7.21,50.5,557,553.3,Anzahl
+230,Winterthur,2010,13.6,12.51,87.6,411,414,Anzahl
+230,Winterthur,2011,13.1,12.51,87.6,410,414,Anzahl
+230,Winterthur,2012,12.6,12.51,87.6,415,414,Anzahl
+230,Winterthur,2013,12.2,12.51,87.6,416,414,Anzahl
+230,Winterthur,2014,11.6,12.51,87.6,414,414,Anzahl
+230,Winterthur,2015,11.7,12.51,87.6,417,414,Anzahl
+230,Winterthur,2016,12.8,12.51,87.6,415,414,Anzahl
+231,Zell,2010,9.5,6.94,48.6,517,535.4,Anzahl
+231,Zell,2011,5.2,6.94,48.6,514,535.4,Anzahl
+231,Zell,2012,9.3,6.94,48.6,528,535.4,Anzahl
+231,Zell,2013,6.2,6.94,48.6,543,535.4,Anzahl
+231,Zell,2014,6.7,6.94,48.6,545,535.4,Anzahl
+231,Zell,2015,5.8,6.94,48.6,546,535.4,Anzahl
+231,Zell,2016,5.9,6.94,48.6,555,535.4,Anzahl
+241,Aesch ZH,2010,7.7,9.41,65.9,636,623.9,Anzahl
+241,Aesch ZH,2011,11.1,9.41,65.9,634,623.9,Anzahl
+241,Aesch ZH,2012,6.0,9.41,65.9,650,623.9,Anzahl
+241,Aesch ZH,2013,10.1,9.41,65.9,620,623.9,Anzahl
+241,Aesch ZH,2014,5.1,9.41,65.9,605,623.9,Anzahl
+241,Aesch ZH,2015,12.5,9.41,65.9,596,623.9,Anzahl
+241,Aesch ZH,2016,13.4,9.41,65.9,626,623.9,Anzahl
+242,Birmensdorf,2010,19.2,18.79,131.5,544,543.3,Anzahl
+242,Birmensdorf,2011,15.5,18.79,131.5,543,543.3,Anzahl
+242,Birmensdorf,2012,16.0,18.79,131.5,546,543.3,Anzahl
+242,Birmensdorf,2013,21.5,18.79,131.5,550,543.3,Anzahl
+242,Birmensdorf,2014,19.5,18.79,131.5,545,543.3,Anzahl
+242,Birmensdorf,2015,18.4,18.79,131.5,543,543.3,Anzahl
+242,Birmensdorf,2016,21.4,18.79,131.5,532,543.3,Anzahl
+243,Dietikon,2010,11.7,9.63,67.4,470,478.3,Anzahl
+243,Dietikon,2011,9.3,9.63,67.4,475,478.3,Anzahl
+243,Dietikon,2012,9.4,9.63,67.4,486,478.3,Anzahl
+243,Dietikon,2013,9.0,9.63,67.4,482,478.3,Anzahl
+243,Dietikon,2014,8.0,9.63,67.4,487,478.3,Anzahl
+243,Dietikon,2015,10.0,9.63,67.4,476,478.3,Anzahl
+243,Dietikon,2016,10.0,9.63,67.4,472,478.3,Anzahl
+244,Geroldswil,2010,11.2,9.24,64.7,618,581.4,Anzahl
+244,Geroldswil,2011,7.9,9.24,64.7,616,581.4,Anzahl
+244,Geroldswil,2012,7.6,9.24,64.7,624,581.4,Anzahl
+244,Geroldswil,2013,12.4,9.24,64.7,624,581.4,Anzahl
+244,Geroldswil,2014,8.9,9.24,64.7,532,581.4,Anzahl
+244,Geroldswil,2015,8.6,9.24,64.7,532,581.4,Anzahl
+244,Geroldswil,2016,8.1,9.24,64.7,524,581.4,Anzahl
+245,Oberengstringen,2010,8.5,6.23,43.6,514,510,Anzahl
+245,Oberengstringen,2011,5.5,6.23,43.6,510,510,Anzahl
+245,Oberengstringen,2012,5.2,6.23,43.6,510,510,Anzahl
+245,Oberengstringen,2013,6.1,6.23,43.6,522,510,Anzahl
+245,Oberengstringen,2014,6.4,6.23,43.6,516,510,Anzahl
+245,Oberengstringen,2015,5.0,6.23,43.6,502,510,Anzahl
+245,Oberengstringen,2016,6.9,6.23,43.6,496,510,Anzahl
+246,Oetwil a.d.L.,2010,4.4,6.9,48.3,667,666.3,Anzahl
+246,Oetwil a.d.L.,2011,5.6,6.9,48.3,668,666.3,Anzahl
+246,Oetwil a.d.L.,2012,9.5,6.9,48.3,675,666.3,Anzahl
+246,Oetwil a.d.L.,2013,15.3,6.9,48.3,651,666.3,Anzahl
+246,Oetwil a.d.L.,2014,3.9,6.9,48.3,668,666.3,Anzahl
+246,Oetwil a.d.L.,2015,5.5,6.9,48.3,671,666.3,Anzahl
+246,Oetwil a.d.L.,2016,4.1,6.9,48.3,664,666.3,Anzahl
+247,Schlieren,2010,7.8,8.09,56.6,511,543.9,Anzahl
+247,Schlieren,2011,7.2,8.09,56.6,519,543.9,Anzahl
+247,Schlieren,2012,8.9,8.09,56.6,553,543.9,Anzahl
+247,Schlieren,2013,8.8,8.09,56.6,566,543.9,Anzahl
+247,Schlieren,2014,8.1,8.09,56.6,561,543.9,Anzahl
+247,Schlieren,2015,7.4,8.09,56.6,560,543.9,Anzahl
+247,Schlieren,2016,8.4,8.09,56.6,537,543.9,Anzahl
+248,Uitikon,2010,4.6,4.41,30.9,602,602.1,Anzahl
+248,Uitikon,2011,4.1,4.41,30.9,603,602.1,Anzahl
+248,Uitikon,2012,3.8,4.41,30.9,612,602.1,Anzahl
+248,Uitikon,2013,5.1,4.41,30.9,605,602.1,Anzahl
+248,Uitikon,2014,5.8,4.41,30.9,606,602.1,Anzahl
+248,Uitikon,2015,3.4,4.41,30.9,599,602.1,Anzahl
+248,Uitikon,2016,4.1,4.41,30.9,588,602.1,Anzahl
+249,Unterengstringen,2010,20.8,17.9,125.3,599,600.6,Anzahl
+249,Unterengstringen,2011,16.7,17.9,125.3,594,600.6,Anzahl
+249,Unterengstringen,2012,16.5,17.9,125.3,617,600.6,Anzahl
+249,Unterengstringen,2013,18.3,17.9,125.3,617,600.6,Anzahl
+249,Unterengstringen,2014,21.3,17.9,125.3,601,600.6,Anzahl
+249,Unterengstringen,2015,13.0,17.9,125.3,596,600.6,Anzahl
+249,Unterengstringen,2016,18.7,17.9,125.3,580,600.6,Anzahl
+250,Urdorf,2010,11.9,12.43,87,559,575.7,Anzahl
+250,Urdorf,2011,11.1,12.43,87,566,575.7,Anzahl
+250,Urdorf,2012,13.2,12.43,87,574,575.7,Anzahl
+250,Urdorf,2013,11.7,12.43,87,578,575.7,Anzahl
+250,Urdorf,2014,12.1,12.43,87,582,575.7,Anzahl
+250,Urdorf,2015,11.6,12.43,87,588,575.7,Anzahl
+250,Urdorf,2016,15.4,12.43,87,583,575.7,Anzahl
+251,Weiningen,2010,41.6,44.06,308.4,553,619.1,Anzahl
+251,Weiningen,2011,46.0,44.06,308.4,572,619.1,Anzahl
+251,Weiningen,2012,40.2,44.06,308.4,585,619.1,Anzahl
+251,Weiningen,2013,45.4,44.06,308.4,576,619.1,Anzahl
+251,Weiningen,2014,45.4,44.06,308.4,668,619.1,Anzahl
+251,Weiningen,2015,35.0,44.06,308.4,685,619.1,Anzahl
+251,Weiningen,2016,54.8,44.06,308.4,695,619.1,Anzahl
+261,Zürich,2010,10.3,10.64,74.5,357,352.1,Anzahl
+261,Zürich,2011,9.7,10.64,74.5,352,352.1,Anzahl
+261,Zürich,2012,9.3,10.64,74.5,358,352.1,Anzahl
+261,Zürich,2013,9.5,10.64,74.5,355,352.1,Anzahl
+261,Zürich,2014,9.1,10.64,74.5,351,352.1,Anzahl
+261,Zürich,2015,12.1,10.64,74.5,348,352.1,Anzahl
+261,Zürich,2016,14.5,10.64,74.5,344,352.1,Anzahl
+296,Illnau-Effretikon,2010,11.9,9.11,63.8,503,506.7,Anzahl
+296,Illnau-Effretikon,2011,7.6,9.11,63.8,508,506.7,Anzahl
+296,Illnau-Effretikon,2012,10.8,9.11,63.8,513,506.7,Anzahl
+296,Illnau-Effretikon,2013,8.3,9.11,63.8,511,506.7,Anzahl
+296,Illnau-Effretikon,2014,8.2,9.11,63.8,505,506.7,Anzahl
+296,Illnau-Effretikon,2015,8.2,9.11,63.8,504,506.7,Anzahl
+296,Illnau-Effretikon,2016,8.8,9.11,63.8,503,506.7,Anzahl
+297,Bauma,2010,6.6,7.13,49.9,565,594.1,Anzahl
+297,Bauma,2011,5.3,7.13,49.9,568,594.1,Anzahl
+297,Bauma,2012,7.9,7.13,49.9,585,594.1,Anzahl
+297,Bauma,2013,8.0,7.13,49.9,583,594.1,Anzahl
+297,Bauma,2014,8.5,7.13,49.9,600,594.1,Anzahl
+297,Bauma,2015,5.6,7.13,49.9,627,594.1,Anzahl
+297,Bauma,2016,8.0,7.13,49.9,631,594.1,Anzahl
+298,Wiesendangen,2010,28.7,17.97,125.8,539,555.4,Anzahl
+298,Wiesendangen,2011,22.3,17.97,125.8,543,555.4,Anzahl
+298,Wiesendangen,2012,13.1,17.97,125.8,538,555.4,Anzahl
+298,Wiesendangen,2013,17.7,17.97,125.8,551,555.4,Anzahl
+298,Wiesendangen,2014,15.7,17.97,125.8,569,555.4,Anzahl
+298,Wiesendangen,2015,13.5,17.97,125.8,576,555.4,Anzahl
+298,Wiesendangen,2016,14.8,17.97,125.8,572,555.4,Anzahl

@@ -31,7 +31,12 @@ d3.json("./data/merged.json", function(error, ch) {
             div.transition()
                 .duration(500)
                 .style("opacity", 0);
-        });;
+        })
+        .on('click', function () { //TODO on click do histogram of municipality
+        d3.select('body')
+            .append('h3')
+            .text('Today is a beautiful day!!');
+    });
 
     svg.append("path")
         .attr("class", "municipality-boundaries")

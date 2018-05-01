@@ -26,11 +26,6 @@ svg.append("text")
     .text("Unfälle und zugelassene Autos pro Ort pro 1000 Einwohner");
 
 
-
-// load the data from the cleaned csv file.
-// note: the call is done asynchronous.
-// That is why you have to load the data inside of a
-// callback function.
 d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
     const heightDomain = d3.extent(data, d => Number(d.AVG_Autos));
     const weightDomain = d3.extent(data, d => Number(d.AVG_Unfaelle_pro_Ort));

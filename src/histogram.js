@@ -1,6 +1,5 @@
 
 
-
 // define svn size and margin.
 const canvHeight = 600, canvWidth = 800;
 const margin = {top: 50, right: 20, bottom: 30, left: 60};
@@ -26,6 +25,7 @@ const height = canvHeight - margin.top - margin.bottom;
 
 const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
 
+var chosen = 2;
 
 // we now have created the folling structure in our index.html
 // <body>
@@ -51,9 +51,9 @@ svg.append("text")
     .style("text-anchor", "left")
     .text("Shirt Size Histogram");
 
+
 d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
-    const years = d3.extent(data, d => Number(d.INDIKATOR_JAHR));
-    const accidents = d3.extent(data, d => Number(d.Anzahl_Unfaelle));
+
 
 // create scale for x direction
 //see https://github.com/d3/d3-scale#band-scales
@@ -112,9 +112,9 @@ d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
         .data(data)
         .enter().append("rect")
         .attr("class", "bar")
-        .attr("x", d => xScale(d.INDIKATOR_JAHR.filter(d.BFS_NR==2)))
-        .attr("y", d => yScale(d.Anzahl_Unfaelle.filter(d.BFS_NR==2)))
+        .attr("x", d => xScale(d.INDIKATOR_JAHR))
+        .attr("y", d => yScale(d.Anzahl_Unfaelle))
         .attr("width", xScale.bandwidth())
-        .attr("height", d => height - yScale(d.Anzahl_Unfaelle).filter(d.BFS_NR==2))
+        .attr("height", d => height - yScale(d.Anzahl_Unfaelle))
         .style("fill", d => colorScale(d["Anzahl_Unfaelle"]));
 })

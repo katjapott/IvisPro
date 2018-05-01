@@ -48,21 +48,6 @@ d3.json("./data/merged.json", function(error, ch) {
         .attr("class", "lakes")
         .attr("d", path(topojson.mesh(ch, ch.objects.lakes, function(a, b) { return a !== b; })));
 
-   /* // Create tooltip
-    var tooltip = d3.select("body").append("div").classed("tooltip", true);
-
-    svg.on("mouseover", function(d, i) {
-        tooltip
-            .data(topojson.feature(ch, ch.objects.municipalities).features)
-            .enter().append("text")
-            .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
-            .attr("dy", ".35em")
-            .style("visibility", "visible")
-            .text(function(d) { return d.properties.GEBIET_NAME; });
-    })
-        .on("mouseout", function(d,i) {
-            tooltip.style("visibility", "hidden")
-        });*/
 });
 
 

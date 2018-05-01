@@ -99,6 +99,8 @@ d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
         .style("text-anchor", "middle")
         .text("Count of Shirt Size");
 
+
+
 // create the histogram rects.
 // 1. selectAll creates an empty placeholder for a yet inexisting rect.
 // 2. .data(shirt_data).enter() loops over the data array. subsequent methods are called for every element in the data array.
@@ -110,9 +112,9 @@ d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
         .data(data)
         .enter().append("rect")
         .attr("class", "bar")
-        .attr("x", d => xScale(d.INDIKATOR_JAHR))
-        .attr("y", d => yScale(d.Anzahl_Unfaelle))
+        .attr("x", d => xScale(d.INDIKATOR_JAHR.filter(d.BFS_NR==2)))
+        .attr("y", d => yScale(d.Anzahl_Unfaelle.filter(d.BFS_NR==2)))
         .attr("width", xScale.bandwidth())
-        .attr("height", d => height - yScale(d.Anzahl_Unfaelle))
+        .attr("height", d => height - yScale(d.Anzahl_Unfaelle).filter(d.BFS_NR==2))
         .style("fill", d => colorScale(d["Anzahl_Unfaelle"]));
 })

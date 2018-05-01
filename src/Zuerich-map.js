@@ -2,46 +2,56 @@ const width = 960,
     height = 500;
 
 
-const path = d3.geo.path()
-    .projection(projection);
+var svg = d3.select("svg");
 
-const svg = d3.select("body").append("svg")
-    .attr("width", width)
-    .attr("height", height);
+var path = d3.geoPath();
 
-
-var projection = d3.geo.albers()
-    .rotate([0, 0])
-    .center([8.3, 46.8])
-    .scale(16000)
-    .translate([width / 2, height / 2])
-    .precision(.1);
+var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
 
 d3.json("./data/merged.json", function(error, ch) {
-    svg.append("path")
-        .datum(topojson.feature(ch, ch.objects.municipalities))
+    if (error) throw error;
+
+    svg.append("g")
         .attr("class", "municipalities")
-        .attr("d", path);
+        .selectAll("path")
+        .data(topojson.feature(ch, ch.objects.municipalities).features)
+        .enter().append("path")
+        .attr("d", path)
+        .on("mouseover", function(d) {
+            div.transition()
+                .duration(200)
+                .style("opacity", .9);
+            div.html((d.properties.GEBIET_NAME))
+                .style("left", (d3.event.pageX) + "px")
+                .style("top", (d3.event.pageY - 28) + "px");
+        })
+        .on("mouseout", function(d) {
+            div.transition()
+                .duration(500)
+                .style("opacity", 0);
+        });;
 
     svg.append("path")
-        .datum(topojson.mesh(ch, ch.objects.municipalities, function(a, b) { return a !== b; }))
         .attr("class", "municipality-boundaries")
+        .attr("d", path(topojson.mesh(ch, ch.objects.municipalities, function(a, b) { return a !== b; })));
+
+    svg.append("g")
+        .attr("class", "lakes")
+        .selectAll("path")
+        .data(topojson.feature(ch, ch.objects.lakes).features)
+        .enter().append("path")
         .attr("d", path);
 
     svg.append("path")
-        .datum(topojson.feature(ch, ch.objects.lakes))
         .attr("class", "lakes")
-        .attr("d", path);
+        .attr("d", path(topojson.mesh(ch, ch.objects.lakes, function(a, b) { return a !== b; })));
 
-    svg.append("path")
-        .datum(topojson.mesh(ch, ch.objects.lakes, function(a, b) { return a !== b; }))
-        .attr("class", "lakes")
-        .attr("d", path);
-
-    // Create tooltip
+   /* // Create tooltip
     var tooltip = d3.select("body").append("div").classed("tooltip", true);
 
-    path.on("mouseover", function(d, i) {
+    svg.on("mouseover", function(d, i) {
         tooltip
             .data(topojson.feature(ch, ch.objects.municipalities).features)
             .enter().append("text")
@@ -52,11 +62,7 @@ d3.json("./data/merged.json", function(error, ch) {
     })
         .on("mouseout", function(d,i) {
             tooltip.style("visibility", "hidden")
-        });
-
-
+        });*/
 });
-
-
 
 

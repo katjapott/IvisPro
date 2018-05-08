@@ -1,25 +1,25 @@
-// create svg canvas
-const canvHeight = 600, canvWidth = 800;
-
-const svg = d3.select("body").append("svg")
-    .attr("width", canvWidth)
-    .attr("height", canvHeight)
-    .style("border", "1px solid");
-
+// // create svg canvas
+ const canvHeight3 = 600, canvWidth3 = 800;
+//
+// const svg = d3.select("body").append("svg")
+//     .attr("width", canvWidth)
+//     .attr("height", canvHeight)
+//     .style("border", "1px solid");
+//
 // calc the width and height depending on margins.
-const margin = {top: 50, right: 80, bottom: 50, left: 60};
-const width = canvWidth - margin.left - margin.right;
-const height = canvHeight - margin.top - margin.bottom;
+const margin2 = {top: 50, right: 80, bottom: 50, left: 60};
+const width2 = canvWidth3 - margin2.left - margin2.right;
+const height2 = canvHeight3 - margin2.top - margin2.bottom;
 
 // create parent group and add left and top margin
-const g = svg.append("g")
-    .attr("id", "chart-area")
-    .attr("transform", "translate(" +margin.left + "," + margin.top + ")");
+const g2 = svg.append("g")
+    .attr("id", "scatterplot")
+    .attr("transform", "translate(400, 700)");
 
 // chart title
-svg.append("text")
+g2.append("text")
     .attr("y", 0)
-    .attr("x", margin.left)
+    .attr("x", margin2.left)
     .attr("dy", "1.5em")
     .attr("font-family", "sans-serif")
     .attr("font-size", "24px")
@@ -33,12 +33,12 @@ d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
 
     // create scales for x and y direction
     const xScale = d3.scaleLinear()
-        .rangeRound([0,width])
+        .rangeRound([0,width2])
         .domain(heightDomain)
         .nice(5);
 
     const yScale = d3.scaleLinear()
-        .rangeRound([height,0])
+        .rangeRound([height2,0])
         .domain(weightDomain)
         .nice(5);
 
@@ -46,16 +46,16 @@ d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
 
     // create xAxis
     const xAxis = d3.axisBottom(xScale);
-    g.append("g")  // create a group and add axis
-        .attr("transform", "translate(0," + height + ")").call(xAxis);
+    g2.append("g")  // create a group and add axis
+        .attr("transform", "translate(0," + height2 + ")").call(xAxis);
 
     // create yAxis
     const yAxis = d3.axisLeft(yScale);
-    g.append("g")  // create a group and add axis
+    g2.append("g")  // create a group and add axis
         .call(yAxis);
 
     // add circle
-    var data_points = g.selectAll("circle")  // this is just an empty placeholder
+    var data_points = g2.selectAll("circle")  // this is just an empty placeholder
         .data(data)
         .enter().append("circle")
         .attr("class", "bar")
@@ -82,19 +82,19 @@ d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
 });
 
 // text label for the x axis
-g.append("text")
-    .attr("y", height + margin.bottom / 2)
-    .attr("x", width / 2)
+g2.append("text")
+    .attr("y", height2 + margin2.bottom / 2)
+    .attr("x", width2 / 2)
     .attr("dy", "1em")
     .attr("font-family", "sans-serif")
     .style("text-anchor", "middle")
     .text("Autos");
 
 // text label for the y axis
-g.append("text")
+g2.append("text")
     .attr("transform", "rotate(-90)")
-    .attr("y", 0 - margin.left)
-    .attr("x",0 - (height / 2))
+    .attr("y", 0 - margin2.left)
+    .attr("x",0 - (height2 / 2))
     .attr("dy", "1em")
     .attr("font-family", "sans-serif")
     .style("text-anchor", "middle")

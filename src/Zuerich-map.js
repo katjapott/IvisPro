@@ -18,12 +18,12 @@ d3.json("./data/merged.json", function(error, ch) {
     svg.append("g")
         .attr("class", "municipalities")
         .attr("transform", `translate(0,50)`)
-
-.selectAll("path")
+        .selectAll("path")
         .data(topojson.feature(ch, ch.objects.municipalities).features)
         .enter().append("path")
         .attr("d", path)
         .on("mouseover", function(d) {
+            updateHistogram(d.id);
             div.transition()
                 .duration(200)
                 .style("opacity", .9);
@@ -36,10 +36,7 @@ d3.json("./data/merged.json", function(error, ch) {
                 .duration(500)
                 .style("opacity", 0);
         })
-        .on('click', function(d) {
-            updateHistogram(d.id);
-
-    });
+    ;
 
     svg.append("path")
         .attr("class", "municipality-boundaries")
@@ -50,7 +47,6 @@ d3.json("./data/merged.json", function(error, ch) {
     svg.append("g")
         .attr("class", "lakes")
         .attr("transform", `translate(0,50)`)
-
         .selectAll("path")
         .data(topojson.feature(ch, ch.objects.lakes).features)
         .enter().append("path")
@@ -59,7 +55,6 @@ d3.json("./data/merged.json", function(error, ch) {
     svg.append("path")
         .attr("class", "lakes")
         .attr("transform", `translate(0,50)`)
-
         .attr("d", path(topojson.mesh(ch, ch.objects.lakes, function(a, b) { return a !== b; })));
 
 });
@@ -138,8 +133,7 @@ function updateHistogram(id){
         const yScale = d3.scaleLinear().rangeRound([heightH, 0])
             .domain([0, d3.max(_.map(data, d => d.Anzahl_Unfaelle).map(d => Number.parseInt(d)))]);
 
-        var init =
-        g.selectAll("rect")
+        var init = g.selectAll("rect")
             .data(bfsMatch)
             .style("fill", d => colorScale(d["Anzahl_Unfaelle"]))
             .attr("x", d => xScale(d.INDIKATOR_JAHR))

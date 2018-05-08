@@ -1,5 +1,4 @@
 // create svg canvas
-const canvHeight = 600, canvWidth = 800;
 const svg = d3.select("body").append("svg")
     .attr("width", canvWidth)
     .attr("height", canvHeight)

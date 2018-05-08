@@ -1,5 +1,4 @@
-const width = 1200,
-    height = 500;
+const width = 1200, height = 500;
 
 const margin = {top: 50, right: 20, bottom: 30, left: 60};
 
@@ -57,8 +56,7 @@ d3.json("./data/merged.json", function(error, ch) {
 
 });
 
-
-
+//Create Histogram
     const g = svg.append("g")
         .attr("id", "chart-area")
         .attr("transform", `translate(900,200)`);
@@ -114,12 +112,7 @@ d3.json("./data/merged.json", function(error, ch) {
             .attr("y", d => yScale(Number.parseInt(d.Anzahl_Unfaelle)))
             .attr("width", xScale.bandwidth())
             .attr("height", d => heightH - yScale(Number.parseInt(d.Anzahl_Unfaelle)))
-            .style("fill", d => colorScale(d["Anzahl_Unfaelle"]));
-
-
-   ;
-
-
+            .style("fill", d => colorScale(d["Anzahl_Unfaelle"]));;
 
     })
 
@@ -127,8 +120,6 @@ d3.json("./data/merged.json", function(error, ch) {
 function updateHistogram(id){
 
     const heightH = canvHeight - margin.top - margin.bottom;
-
-
 
     d3.csv("./data/Unfaelle_Autos.csv", function (error, data) {
 
@@ -150,18 +141,8 @@ function updateHistogram(id){
             .attr("height", d => heightH - yScale(Number.parseInt(d.Anzahl_Unfaelle)));
         ;
 
-        // var update = init.enter().append("rect")
-        //     .attr("class", "bar")
-        //     .attr("x", d => xScale2(d.INDIKATOR_JAHR))
-        //     .attr("y", d => yScale2(Number.parseInt(d.Anzahl_Unfaelle)))
-        //     .attr("width", xScale2.bandwidth())
-        //     .attr("height", d => heightH - yScale2(Number.parseInt(d.Anzahl_Unfaelle)))
-        //     .style("fill", d => colorScale(d["Anzahl_Unfaelle"]));
-
-
-
-
     })
 }
+
 
 

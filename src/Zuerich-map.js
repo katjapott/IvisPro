@@ -1,6 +1,6 @@
 const width = 1200, height = 500;
 
-const margin = {top: 50, right: 20, bottom: 30, left: 60};
+const margin = {top: 0, right: 20, bottom: -50, left: 60};
 
 const canvHeight = 400, canvWidth = 500;
 
@@ -17,7 +17,9 @@ d3.json("./data/merged.json", function(error, ch) {
 
     svg.append("g")
         .attr("class", "municipalities")
-        .selectAll("path")
+        .attr("transform", `translate(0,50)`)
+
+.selectAll("path")
         .data(topojson.feature(ch, ch.objects.municipalities).features)
         .enter().append("path")
         .attr("d", path)
@@ -41,10 +43,14 @@ d3.json("./data/merged.json", function(error, ch) {
 
     svg.append("path")
         .attr("class", "municipality-boundaries")
+        .attr("transform", `translate(0,50)`)
+
         .attr("d", path(topojson.mesh(ch, ch.objects.municipalities, function(a, b) { return a !== b; })));
 
     svg.append("g")
         .attr("class", "lakes")
+        .attr("transform", `translate(0,50)`)
+
         .selectAll("path")
         .data(topojson.feature(ch, ch.objects.lakes).features)
         .enter().append("path")
@@ -52,19 +58,20 @@ d3.json("./data/merged.json", function(error, ch) {
 
     svg.append("path")
         .attr("class", "lakes")
+        .attr("transform", `translate(0,50)`)
+
         .attr("d", path(topojson.mesh(ch, ch.objects.lakes, function(a, b) { return a !== b; })));
 
 });
 
-//Create Histogram
     const g = svg.append("g")
         .attr("id", "chart-area")
-        .attr("transform", `translate(900,200)`);
+        .attr("transform", `translate(850,100)`);
 
     const widthH = canvWidth - margin.left - margin.right;
     const heightH = canvHeight - margin.top - margin.bottom;
 
-    const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+    const colorScale = d3.scaleOrdinal(d3.schemeCategory20b);
 
     svg.append("text")
         .attr("x", margin.left)
@@ -73,7 +80,7 @@ d3.json("./data/merged.json", function(error, ch) {
         .attr("font-family", "sans-serif")
         .attr("font-size", "24px")
         .style("text-anchor", "left")
-        .text("Anzahl Unfälle im Ort");
+        .text("Anzahl Unfälle im Ort pro 1000 Einwohner");
 
     d3.csv("./data/Unfaelle_Autos.csv", function (error, data) {
 

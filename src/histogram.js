@@ -12,6 +12,7 @@ function drawHistogram(id)
         .attr("id", "chart-area")
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
+
     const width = canvWidth - margin.left - margin.right;
     const height = canvHeight - margin.top - margin.bottom;
 

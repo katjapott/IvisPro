@@ -17,8 +17,6 @@ function drawHistogram(id)
 
     const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
 
-    var chosen = 2;
-
     svg.append("text")
         .attr("x", margin.left)
         .attr("y", 0)

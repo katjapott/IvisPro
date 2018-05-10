@@ -998,18 +998,18 @@ BFS_NR,GEBIET_NAME,INDIKATOR_JAHR,Anzahl_Unfaelle,AVG_Unfaelle_pro_Ort,Summe_all
 173,Hittnau,2014,4.4,5.66,39.6,622,608.4,Anzahl
 173,Hittnau,2015,3.6,5.66,39.6,619,608.4,Anzahl
 173,Hittnau,2016,4.5,5.66,39.6,619,608.4,Anzahl
-174,Illnau-Effretikon (bis 2015),2010,11.6,9.07,54.4,501,506,Anzahl
-174,Illnau-Effretikon (bis 2015),2011,7.5,9.07,54.4,505,506,Anzahl
-174,Illnau-Effretikon (bis 2015),2012,10.5,9.07,54.4,512,506,Anzahl
-174,Illnau-Effretikon (bis 2015),2013,8.2,9.07,54.4,509,506,Anzahl
-174,Illnau-Effretikon (bis 2015),2014,8.3,9.07,54.4,505,506,Anzahl
-174,Illnau-Effretikon (bis 2015),2015,8.3,9.07,54.4,504,506,Anzahl
-175,Kyburg (bis 2015),2010,21.5,13.32,79.9,587,557,Anzahl
-175,Kyburg (bis 2015),2011,11.7,13.32,79.9,597,557,Anzahl
-175,Kyburg (bis 2015),2012,24.6,13.32,79.9,581,557,Anzahl
-175,Kyburg (bis 2015),2013,12.3,13.32,79.9,594,557,Anzahl
-175,Kyburg (bis 2015),2014,4.9,13.32,79.9,484,557,Anzahl
-175,Kyburg (bis 2015),2015,4.9,13.32,79.9,499,557,Anzahl
+174,Illnau-Effretikon,2010,11.6,9.07,54.4,501,506,Anzahl
+174,Illnau-Effretikon,2011,7.5,9.07,54.4,505,506,Anzahl
+174,Illnau-Effretikon,2012,10.5,9.07,54.4,512,506,Anzahl
+174,Illnau-Effretikon,2013,8.2,9.07,54.4,509,506,Anzahl
+174,Illnau-Effretikon,2014,8.3,9.07,54.4,505,506,Anzahl
+174,Illnau-Effretikon,2015,8.3,9.07,54.4,504,506,Anzahl
+175,Kyburg,2010,21.5,13.32,79.9,587,557,Anzahl
+175,Kyburg,2011,11.7,13.32,79.9,597,557,Anzahl
+175,Kyburg,2012,24.6,13.32,79.9,581,557,Anzahl
+175,Kyburg,2013,12.3,13.32,79.9,594,557,Anzahl
+175,Kyburg,2014,4.9,13.32,79.9,484,557,Anzahl
+175,Kyburg,2015,4.9,13.32,79.9,499,557,Anzahl
 176,Lindau,2010,25.2,21.06,147.4,578,597.6,Anzahl
 176,Lindau,2011,18.1,21.06,147.4,580,597.6,Anzahl
 176,Lindau,2012,21.9,21.06,147.4,599,597.6,Anzahl

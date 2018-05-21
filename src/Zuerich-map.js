@@ -75,7 +75,7 @@ d3.json("./data/merged.json", function(error, ch) {
         .attr("font-family", "sans-serif")
         .attr("font-size", "24px")
         .style("text-anchor", "left")
-        .text("Anzahl Unfälle im Ort pro 1000 Einwohner");
+        .text("Anzahl Unfälle im Kanton Zürich pro 1000 Einwohner");
 
     d3.csv("./data/Unfaelle_Autos.csv", function (error, data) {
 

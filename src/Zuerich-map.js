@@ -12,6 +12,7 @@ var div = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
 
+
 d3.json("./data/merged.json", function(error, ch) {
     if (error) throw error;
 
@@ -66,9 +67,16 @@ d3.json("./data/merged.json", function(error, ch) {
     const widthH = canvWidth - margin.left - margin.right;
     const heightH = canvHeight - margin.top - margin.bottom;
 
-    const colorScale = d3.scaleOrdinal(d3.schemeCategory20b);
 
-    svg.append("text")
+   // const colorScale = d3.scaleOrdinal(d3.schemeBlues[7]);
+
+//var colorScale = d3.scaleOrdinal(d3.schemeBlues[9]);
+
+var colorScaleMap = d3.scaleLinear()
+    .domain([0, 50])
+    .range(["lightblue", "darkblue"]);
+
+svg.append("text")
         .attr("x", margin.left)
         .attr("y", 0)
         .attr("dy", "1.5em")  // line height
@@ -114,7 +122,7 @@ d3.json("./data/merged.json", function(error, ch) {
             .attr("y", d => yScale(Number.parseInt(d.Anzahl_Unfaelle)))
             .attr("width", xScale.bandwidth())
             .attr("height", d => heightH - yScale(Number.parseInt(d.Anzahl_Unfaelle)))
-            .style("fill", d => colorScale(d["Anzahl_Unfaelle"]));;
+            .style("fill", d => colorScaleMap(d["Anzahl_Unfaelle"]));;
 
     })
 
@@ -135,7 +143,7 @@ function updateHistogram(id){
 
         var init = g.selectAll("rect")
             .data(bfsMatch)
-            .style("fill", d => colorScale(d["Anzahl_Unfaelle"]))
+            .style("fill", d => colorScaleMap(d["Anzahl_Unfaelle"]))
             .attr("x", d => xScale(d.INDIKATOR_JAHR))
             .attr("y", d => yScale(Number.parseInt(d.Anzahl_Unfaelle)))
             .attr("width", xScale.bandwidth())

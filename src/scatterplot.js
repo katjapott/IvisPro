@@ -11,6 +11,10 @@ const margin2 = {top: 50, right: 80, bottom: 50, left: 60};
 const width2 = canvWidth3 - margin2.left - margin2.right;
 const height2 = canvHeight3 - margin2.top - margin2.bottom;
 
+var colorScale = d3.scaleLinear()
+    .domain([0, 50])
+    .range(["lightblue", "black"]);
+
 // create parent group and add left and top margin
 const g2 = svg.append("g")
     .attr("id", "scatterplot")
@@ -42,7 +46,9 @@ d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
         .domain(weightDomain)
         .nice(10);
 
-    const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+   // const colorScale = d3.scaleOrdinal(d3.schemeBlues[7]);
+
+   // const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
 
     // create xAxis
     const xAxis = d3.axisBottom(xScale);

@@ -13,6 +13,10 @@ var div = d3.select("body").append("div")
     .style("opacity", 0);
 
 
+var colorScaleMap = d3.scaleLinear()
+    .domain([0, 50])
+    .range(["lightblue", "darkblue"]);
+
 d3.json("./data/merged.json", function(error, ch) {
     if (error) throw error;
 
@@ -23,6 +27,7 @@ d3.json("./data/merged.json", function(error, ch) {
         .data(topojson.feature(ch, ch.objects.municipalities).features)
         .enter().append("path")
         .attr("d", path)
+        .style("fill", d => colorScaleMap(d.properties.AVG_Unfaelle_pro_Ort))
         .on("mouseover", function(d) {
             updateHistogram(d.id);
             div.transition()

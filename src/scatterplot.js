@@ -1,5 +1,5 @@
 // // create svg canvas
- const canvHeight3 = 600, canvWidth3 = 800;
+ const canvHeight3 = 600, canvWidth3 = 1200;
 //
 // const svg = d3.select("body").append("svg")
 //     .attr("width", canvWidth)
@@ -18,12 +18,12 @@ var colorScale = d3.scaleLinear()
 // create parent group and add left and top margin
 const g2 = svg.append("g")
     .attr("id", "scatterplot")
-    .attr("transform", "translate(400, 800)");
+    .attr("transform", "translate(150, 800)");
 
 // chart title
 g2.append("text")
     .attr("y", -100)
-    .attr("x", margin2.left)
+    .attr("x", margin2.left+100)
     .attr("dy", "1.5em")
     .attr("font-family", "sans-serif")
     .attr("font-size", "24px")
@@ -73,13 +73,16 @@ d3.csv("./data/Unfaelle_Autos.csv", function(error, data) {
     // Create tooltip
     var tooltipScat = d3.select("body").append("div").classed("tooltipScat", true);
 
-    data_points.on("mouseover", function(d, i) {
+    data_points.on("mouseout", function(d,i) {
+        tooltipScat.style("visibility", "hidden")
+    })
+        .on("mouseover", function(d, i) {
         tooltipScat
             .html(`${d["GEBIET_NAME"]} <br/>`
                 + `Autos: ${d.AVG_Autos}<br/>`
                 + `Unfaelle: ${d.AVG_Unfaelle_pro_Ort}` )
             .style("visibility", "visible")
-            .style("left", (d3.event.pageX) + "px")
+            .style("left", (d3.event.pageX+10) + "px")
             .style("top", (d3.event.pageY - 28) + "px");
     })
         .on("mouseout", function(d,i) {
@@ -104,5 +107,5 @@ g2.append("text")
     .attr("dy", "1em")
     .attr("font-family", "sans-serif")
     .style("text-anchor", "middle")
-    .text("Unfaelle");
+    .text("Unfälle");
 

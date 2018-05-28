@@ -8,8 +8,6 @@ Das Projekt funktioniert mit D3 v4. Es zeigt die Unfälle im Kanton Zürich zwis
 
 Ebenfalls zeigt es den Zusammenhang zwischen den zugelassenen Autos pro Ort und den Unfällen im Durchschnitt aller sechs Jahre.
 
-Die Daten der Unfälle und zugelassenen Autos wurden mit Trifacta zusammengefügt und gefiltert.
-
 ### Feautures
 
 Hover Effekt bei den Gemeinden. Der Gemeindename wird angezeigt und das Histogram für den ausgewählten Ort wird angezeigt.
